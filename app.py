@@ -12,19 +12,16 @@ df_clean = pd.read_csv('hotel_distribution_cleaned.csv')
 # Menampilkan judul utama
 st.title("Dashboard Monitoring Distribusi Hotel")
 
-# 1. Menampilkan Data Summary
-st.subheader("🏨 Overview Data Hotel")
-total_kasus = df_clean['city'].nunique()
-total_pengobatan = df_clean[df_clean['status'] == 'Completed'].shape[0]
-avg_complete_rate = (total_pengobatan / total_kasus) * 100
+# Menambahkan filter data menggunakan Sidebar
+kecamatan = st.sidebar.selectbox("Pilih Kecamatan", df_clean['city'].unique())
+df_filtered = df_clean[df_clean['city'] == kecamatan]
 
-st.metric("Total Kasus", total_kasus)
-st.metric("Total Pengobatan", total_pengobatan)
-st.metric("Avg Complete Rate", f"{avg_complete_rate:.2f}%")
+# Tampilkan data yang sudah difilter
+st.write(f"Data Hotel di Kecamatan {kecamatan}")
+st.dataframe(df_filtered)
 
-
-# 2. Jumlah Hotel per Kota
-st.subheader("📊 Jumlah Hotel per Kota")
+# 1. Jumlah Hotel per Kota
+st.subheader("Jumlah Hotel per Kota")
 hotel_per_city = df_clean.groupby('city')['name'].nunique().reset_index()
 hotel_per_city.columns = ['city', 'total_hotel']
 
@@ -36,8 +33,8 @@ ax1.set_xticklabels(hotel_per_city['city'], rotation=45, ha='right')
 plt.tight_layout()
 st.pyplot(fig1)
 
-# 3. Rata-rata Rating per Kota
-st.subheader("⭐ Rata-rata Rating Hotel per Kota")
+# 2. Rata-rata Rating per Kota
+st.subheader("Rata-rata Rating Hotel per Kota")
 rating_per_city = df_clean.groupby('city')['starRating'].mean().reset_index()
 rating_per_city.columns = ['city', 'avg_rating']
 
@@ -54,8 +51,8 @@ for bar in bars2:
 plt.tight_layout()
 st.pyplot(fig2)
 
-# 4. Rata-rata Harga per Kota
-st.subheader("💰 Rata-rata Harga Hotel per Kota (IDR)")
+# 3. Rata-rata Harga per Kota
+st.subheader("Rata-rata Harga Hotel per Kota (IDR)")
 price_per_city = df_clean.groupby('city')['price'].mean().reset_index()
 price_per_city.columns = ['city', 'avg_price']
 
@@ -72,8 +69,8 @@ for bar in bars3:
 plt.tight_layout()
 st.pyplot(fig3)
 
-# 5. Distribusi Star Rating Hotel (Pie Chart)
-st.subheader("🎯 Distribusi Star Rating Hotel")
+# 4. Distribusi Star Rating Hotel (Pie Chart)
+st.subheader("Distribusi Star Rating Hotel")
 star_distribution = df_clean['starRating'].value_counts().reset_index()
 star_distribution.columns = ['starRating', 'jumlah']
 fig4, ax4 = plt.subplots(figsize=(8, 8))
@@ -81,8 +78,8 @@ ax4.pie(star_distribution['jumlah'], labels=star_distribution['starRating'], aut
 ax4.set_title("Distribusi Star Rating Hotel", fontsize=16, weight='bold')
 st.pyplot(fig4)
 
-# 6. Peta Lokasi Hotel per Kota (menggunakan folium)
-st.subheader("📍 Peta Lokasi Hotel per Kota")
+# 5. Peta Lokasi Hotel per Kota (menggunakan folium)
+st.subheader("Peta Lokasi Hotel per Kota")
 city_coordinates = {
     "Jakarta": [-6.2088, 106.8456],
     "Bandung": [-6.9175, 107.6191],
@@ -101,8 +98,8 @@ for city, coord in city_coordinates.items():
 st.write("Peta Lokasi Hotel per Kota")
 st_folium(m, width=700)
 
-# 7. Harga vs Rating (Scatter Plot)
-st.subheader("💡 Hubungan Harga dan Rating Hotel")
+# 6. Harga vs Rating (Scatter Plot)
+st.subheader("Harga vs Rating")
 fig5, ax5 = plt.subplots(figsize=(10, 6))
 ax5.scatter(df_clean['price'], df_clean['starRating'], alpha=0.5, color='b')
 ax5.set_title("Hubungan Harga dan Rating Hotel", fontsize=16, weight='bold')
@@ -111,17 +108,3 @@ ax5.set_ylabel("Rating Hotel", fontsize=14)
 plt.grid(True)
 plt.tight_layout()
 st.pyplot(fig5)
-
-# 8. Filter Data - Sidebar
-st.sidebar.header("🔍 Filter Data")
-city_options = df_clean['city'].unique()
-selected_city = st.sidebar.selectbox("Pilih Kota", options=["Semua"] + list(city_options))
-
-# Filter data berdasarkan kota yang dipilih
-if selected_city != "Semua":
-    filtered_data = df_clean[df_clean['city'] == selected_city]
-else:
-    filtered_data = df_clean
-
-st.write(f"Tampilkan data untuk kota: {selected_city}")
-st.dataframe(filtered_data)

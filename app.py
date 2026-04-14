@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import folium
-from folium.plugins import MarkerCluster
-from streamlit_folium import st_folium
 
 # Membaca dataset yang sudah dibersihkan
 df_clean = pd.read_csv('hotel_distribution_cleaned.csv')
@@ -14,7 +11,7 @@ st.title("Dashboard Monitoring Distribusi Hotel 🏨")
 
 # Sidebar Filter - Pilih Kota
 st.sidebar.header("🔍 Filter Data")
-selected_city = st.sidebar.selectbox("Pilih Kota", df_clean['city'].unique())
+selected_city = st.sidebar.selectbox("Pilih Kota", df_clean['city'].unique(), key="city_select")
 
 # 1. Displaying Key Metrics (e.g., Total Hotel, Total Rating, etc.)
 total_hotel = df_clean['name'].nunique()
@@ -57,7 +54,7 @@ hotel_per_city = df_clean.groupby('city')['name'].nunique().reset_index()
 hotel_per_city.columns = ['city', 'total_hotel']
 
 fig1, ax1 = plt.subplots(figsize=(12, 6))
-ax1.bar(hotel_per_city['city'], hotel_per_city['total_hotel'], color='dodgerblue')
+ax1.bar(hotel_per_city['city'], hotel_per_city['total_hotel'], color='#FFB6C1')  # Soft pink color for theme
 ax1.set_xlabel('Kota', fontsize=14)
 ax1.set_ylabel('Jumlah Hotel', fontsize=14)
 ax1.set_xticklabels(hotel_per_city['city'], rotation=45, ha='right')
@@ -74,7 +71,7 @@ rating_per_city = df_clean.groupby('city')['starRating'].mean().reset_index()
 rating_per_city.columns = ['city', 'avg_rating']
 
 fig2, ax2 = plt.subplots(figsize=(12, 6))
-bars2 = ax2.bar(rating_per_city['city'], rating_per_city['avg_rating'], color='lightcoral')
+bars2 = ax2.bar(rating_per_city['city'], rating_per_city['avg_rating'], color='#FF6347')  # Tomato color for rating
 ax2.set_xlabel('Kota', fontsize=14)
 ax2.set_ylabel('Rating', fontsize=14)
 
@@ -86,28 +83,8 @@ for bar in bars2:
 plt.tight_layout()
 st.pyplot(fig2)
 
-# 5. Peta Lokasi Hotel per Kota
-st.subheader("Peta Lokasi Hotel per Kota 🌍")
-city_coordinates = {
-    "Jakarta": [-6.2088, 106.8456],
-    "Bandung": [-6.9175, 107.6191],
-    "Surabaya": [-7.2575, 112.7521],
-    "Yogyakarta": [-7.7956, 110.3695]
-}
-
-# Membuat objek peta
-m = folium.Map(location=city_coordinates["Jakarta"], zoom_start=12)
-
-# Menambahkan marker ke peta
-for city, coord in city_coordinates.items():
-    folium.Marker(location=coord, popup=city).add_to(m)
-
-# Menampilkan peta menggunakan streamlit_folium
-st.write("Peta Lokasi Hotel per Kota")
-st_folium(m, width=700)
-
-# 6. Harga vs Rating (Scatter Plot)
-st.subheader("Harga vs Rating 💰")
+# 5. Harga vs Rating (Scatter Plot)
+st.subheader("Harga vs Rating 💰⭐")
 fig5, ax5 = plt.subplots(figsize=(10, 6))
 ax5.scatter(df_clean['price'], df_clean['starRating'], alpha=0.5, color='b')
 ax5.set_title("Hubungan Harga dan Rating Hotel", fontsize=16, weight='bold')
@@ -126,13 +103,8 @@ st.write("""
 - **Output:** Dashboard yang memvisualisasikan distribusi hotel dan rekomendasi optimasi distribusi.
 """)
 
-# 7. Sidebar filter data
-st.sidebar.header("🔍 Filter Data")
-selected_city = st.sidebar.selectbox("Pilih Kota", df_clean['city'].unique())
-
-# Filter data berdasarkan pilihan kota
-filtered_data = df_clean[df_clean['city'] == selected_city]
-
-# Tampilkan data yang difilter di bawah visualisasi
-st.write(f"📋 Data Hotel di Kota {selected_city}")
-st.dataframe(filtered_data)
+# Menambahkan info dalam bentuk tabel di sidebar
+st.sidebar.header("🏨 Data Hotel per Kota")
+st.sidebar.write("Pilih Kota untuk melihat data distribusi hotel.")
+selected_city_data = df_clean[df_clean['city'] == selected_city]
+st.sidebar.dataframe(selected_city_data)

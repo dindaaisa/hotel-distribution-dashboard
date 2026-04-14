@@ -89,15 +89,17 @@ ax2.pie(rating_per_city['avg_rating'], labels=rating_per_city['city'], autopct='
 ax2.set_title('Distribusi Rata-Rata Rating per Kota', fontsize=16)
 st.pyplot(fig2)
 
-# 6. Rata-rata Harga per Kota (Box Plot)
+# 6. Rata-rata Harga per Kota (Horizontal Bar Chart)
 st.subheader("💰 Rata-rata Harga per Kota")
 price_per_city = df_clean.groupby('city')['price'].mean().reset_index()
 price_per_city.columns = ['city', 'avg_price']
 
 fig3, ax3 = plt.subplots(figsize=(12, 6))
-sns.boxplot(x='city', y='price', data=df_clean, ax=ax3, color='lightgreen')
-ax3.set_xlabel('Kota', fontsize=14)
-ax3.set_ylabel('Harga per Malam (IDR)', fontsize=14)
+sns.barplot(x='avg_price', y='city', data=price_per_city, palette='viridis', ax=ax3)
+ax3.set_xlabel('Harga per Malam (IDR)', fontsize=14)
+ax3.set_ylabel('Kota', fontsize=14)
+ax3.set_title('Rata-rata Harga per Kota', fontsize=16)
+
 plt.tight_layout()
 st.pyplot(fig3)
 

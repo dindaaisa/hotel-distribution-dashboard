@@ -74,14 +74,13 @@ st.write(f"Timeliness tidak dapat diukur karena dataset tidak memiliki timestamp
 # Garis pemisah visualisasi
 st.markdown("<hr>", unsafe_allow_html=True)
 
-# 3. Harga vs Rating
-st.subheader("💵⭐ Harga vs Rating")
-fig2, ax2 = plt.subplots(figsize=(10, 6))
-ax2.scatter(df_clean['price'], df_clean['starRating'], alpha=0.5, color='b')
-ax2.set_title("Hubungan Harga dan Rating Hotel", fontsize=16, weight='bold')
-ax2.set_xlabel("Harga per Malam (IDR)", fontsize=14)
-ax2.set_ylabel("Rating Hotel", fontsize=14)
-plt.grid(True)
+# 3. Heatmap Hubungan Harga dan Rating
+st.subheader("💵⭐ Hubungan Harga dan Rating Hotel (Heatmap)")
+price_rating_corr = df_clean[['price', 'starRating']].corr()
+
+fig2, ax2 = plt.subplots(figsize=(8, 6))
+sns.heatmap(price_rating_corr, annot=True, cmap='coolwarm', ax=ax2, fmt='.2f', cbar_kws={'label': 'Correlation Coefficient'})
+ax2.set_title("Heatmap Harga dan Rating Hotel", fontsize=16)
 plt.tight_layout()
 st.pyplot(fig2)
 

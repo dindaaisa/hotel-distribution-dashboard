@@ -10,7 +10,11 @@ from streamlit_folium import st_folium
 df_clean = pd.read_csv('hotel_distribution_cleaned.csv')
 
 # Menampilkan judul utama
-st.title("Dashboard Monitoring Distribusi Hotel")
+st.title("Dashboard Monitoring Distribusi Hotel 🏨")
+
+# Sidebar Filter - Pilih Kota
+st.sidebar.header("🔍 Filter Data")
+selected_city = st.sidebar.selectbox("Pilih Kota", df_clean['city'].unique())
 
 # 1. Displaying Key Metrics (e.g., Total Hotel, Total Rating, etc.)
 total_hotel = df_clean['name'].nunique()
@@ -27,34 +31,28 @@ with col2:
 with col3:
     st.metric(label="Harga Rata-Rata", value=f"IDR {avg_price:,.0f}")
 
-# Garis pemisah antar bagian
-st.markdown("---")
-
 # 2. Displaying Data Quality Metrics
-st.subheader("Evaluasi Kualitas Data")
+st.subheader("Evaluasi Kualitas Data 📊")
 accuracy = 100.00
 completeness = 100.00
 consistency = 100.00
 timeliness = "Tidak terukur"
 
-col4, col5, col6, col7 = st.columns(4)
+col1, col2, col3, col4 = st.columns(4)
 
-with col4:
+with col1:
     st.metric(label="Accuracy", value=f"{accuracy}%")
-with col5:
+with col2:
     st.metric(label="Completeness", value=f"{completeness}%")
-with col6:
+with col3:
     st.metric(label="Consistency", value=f"{consistency}%")
-with col7:
+with col4:
     st.metric(label="Timeliness", value=timeliness, delta="N/A")
 
 st.write(f"Timeliness tidak dapat diukur karena dataset tidak memiliki timestamp.")
 
-# Garis pemisah antar bagian
-st.markdown("---")
-
 # 3. Jumlah Hotel per Kota
-st.subheader("Jumlah Hotel per Kota")
+st.subheader("Jumlah Hotel per Kota 📊")
 hotel_per_city = df_clean.groupby('city')['name'].nunique().reset_index()
 hotel_per_city.columns = ['city', 'total_hotel']
 
@@ -66,11 +64,12 @@ ax1.set_xticklabels(hotel_per_city['city'], rotation=45, ha='right')
 plt.tight_layout()
 st.pyplot(fig1)
 
-# Garis pemisah antar bagian
-st.markdown("---")
+# Tampilkan tabel di bawah visualisasi
+st.write("📋 Tabel Data Jumlah Hotel per Kota")
+st.dataframe(hotel_per_city)
 
 # 4. Rata-rata Rating per Kota
-st.subheader("Rata-rata Rating Hotel per Kota")
+st.subheader("Rata-rata Rating Hotel per Kota ⭐")
 rating_per_city = df_clean.groupby('city')['starRating'].mean().reset_index()
 rating_per_city.columns = ['city', 'avg_rating']
 
@@ -87,44 +86,8 @@ for bar in bars2:
 plt.tight_layout()
 st.pyplot(fig2)
 
-# Garis pemisah antar bagian
-st.markdown("---")
-
-# 5. Rata-rata Harga per Kota (IDR)
-st.subheader("Rata-rata Harga Hotel per Kota (IDR)")
-price_per_city = df_clean.groupby('city')['price'].mean().reset_index()
-price_per_city.columns = ['city', 'avg_price']
-
-fig3, ax3 = plt.subplots(figsize=(12, 6))
-bars3 = ax3.bar(price_per_city['city'], price_per_city['avg_price'], color='mediumseagreen')
-ax3.set_xlabel('Kota', fontsize=14)
-ax3.set_ylabel('Harga', fontsize=14)
-
-# Label harga di atas bar
-for bar in bars3:
-    yval = bar.get_height()
-    ax3.text(bar.get_x() + bar.get_width()/2, yval + 50000, f'{int(yval):,}', ha='center', fontsize=12)
-
-plt.tight_layout()
-st.pyplot(fig3)
-
-# Garis pemisah antar bagian
-st.markdown("---")
-
-# 6. Distribusi Star Rating Hotel (Pie Chart)
-st.subheader("Distribusi Star Rating Hotel")
-star_distribution = df_clean['starRating'].value_counts().reset_index()
-star_distribution.columns = ['starRating', 'jumlah']
-fig4, ax4 = plt.subplots(figsize=(8, 8))
-ax4.pie(star_distribution['jumlah'], labels=star_distribution['starRating'], autopct='%1.1f%%', startangle=90, colors=plt.cm.Paired.colors, pctdistance=0.85, wedgeprops={"edgecolor": "none"})
-ax4.set_title("Distribusi Star Rating Hotel", fontsize=16, weight='bold')
-st.pyplot(fig4)
-
-# Garis pemisah antar bagian
-st.markdown("---")
-
-# 7. Peta Lokasi Hotel per Kota
-st.subheader("Peta Lokasi Hotel per Kota")
+# 5. Peta Lokasi Hotel per Kota
+st.subheader("Peta Lokasi Hotel per Kota 🌍")
 city_coordinates = {
     "Jakarta": [-6.2088, 106.8456],
     "Bandung": [-6.9175, 107.6191],
@@ -143,11 +106,8 @@ for city, coord in city_coordinates.items():
 st.write("Peta Lokasi Hotel per Kota")
 st_folium(m, width=700)
 
-# Garis pemisah antar bagian
-st.markdown("---")
-
-# 8. Harga vs Rating (Scatter Plot)
-st.subheader("Harga vs Rating")
+# 6. Harga vs Rating (Scatter Plot)
+st.subheader("Harga vs Rating 💰")
 fig5, ax5 = plt.subplots(figsize=(10, 6))
 ax5.scatter(df_clean['price'], df_clean['starRating'], alpha=0.5, color='b')
 ax5.set_title("Hubungan Harga dan Rating Hotel", fontsize=16, weight='bold')
@@ -157,21 +117,22 @@ plt.grid(True)
 plt.tight_layout()
 st.pyplot(fig5)
 
-# Garis pemisah antar bagian
-st.markdown("---")
-
-# 9. Filter Kecamatan
-st.subheader("Filter Data")
-selected_kecamatan = st.selectbox('Pilih Kecamatan', df_clean['region'].unique())
-filtered_data = df_clean[df_clean['region'] == selected_kecamatan]
-
-# Menampilkan data yang difilter
-st.write(f"Data Hotel di Kecamatan {selected_kecamatan}")
-st.dataframe(filtered_data)
-
-# Menambahkan Kesimpulan di bagian bawah
-st.subheader("Kesimpulan")
+# Kesimpulan dan solusi
+st.subheader("🎯 Kesimpulan dan Solusi")
 st.write("""
-    Berdasarkan distribusi hotel, rata-rata harga, dan rating hotel per kota, kita dapat mengoptimalkan distribusi hotel di daerah dengan kebutuhan yang lebih tinggi.
-    Pemantauan distribusi ini sangat penting untuk memastikan keseimbangan antara penawaran dan permintaan hotel.
+- **Masalah Utama:** Distribusi ketersediaan hotel tidak merata saat Tahun Baru.
+- **Fokus Analisis:** Supply hotel (bukan booking, bukan customer).
+- **Solusi:** Monitoring & optimasi distribusi hotel untuk memastikan distribusi yang lebih merata dan efektif.
+- **Output:** Dashboard yang memvisualisasikan distribusi hotel dan rekomendasi optimasi distribusi.
 """)
+
+# 7. Sidebar filter data
+st.sidebar.header("🔍 Filter Data")
+selected_city = st.sidebar.selectbox("Pilih Kota", df_clean['city'].unique())
+
+# Filter data berdasarkan pilihan kota
+filtered_data = df_clean[df_clean['city'] == selected_city]
+
+# Tampilkan data yang difilter di bawah visualisasi
+st.write(f"📋 Data Hotel di Kota {selected_city}")
+st.dataframe(filtered_data)

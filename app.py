@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import folium
 from folium.plugins import MarkerCluster
+from streamlit_folium import st_folium
 
 # Membaca dataset yang sudah dibersihkan (gantilah dengan nama file yang sesuai)
 df_clean = pd.read_csv('hotel_distribution_cleaned.csv')
@@ -78,13 +79,16 @@ city_coordinates = {
     "Yogyakarta": [-7.7956, 110.3695]
 }
 
+# Membuat objek peta
 m = folium.Map(location=city_coordinates["Jakarta"], zoom_start=12)
 
+# Menambahkan marker ke peta
 for city, coord in city_coordinates.items():
     folium.Marker(location=coord, popup=city).add_to(m)
 
+# Menampilkan peta menggunakan streamlit_folium
 st.write("Peta Lokasi Hotel per Kota")
-st.markdown(m._repr_html_(), unsafe_allow_html=True)
+st_folium(m, width=700)
 
 # 6. Harga vs Rating (Scatter Plot)
 st.subheader("Harga vs Rating")

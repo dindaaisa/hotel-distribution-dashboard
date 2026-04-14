@@ -1,0 +1,905 @@
+city,region,name,starRating,userRating,num_staying_nights,checkin,price,year
+Jakarta,"Senayan, Jakarta",The Sultan Hotel & Residence Jakarta,5.0,8.6,3,2022-12-30,2391767,2022
+Jakarta,"Karet Semanggi, Jakarta",Aryaduta Suite Semanggi,4.0,8.5,3,2022-12-30,2400787,2022
+Jakarta,"Cilandak Timur, Jakarta",Aloft South Jakarta,4.0,8.9,3,2022-12-30,1294700,2022
+Jakarta,"Senayan, Jakarta","The Langham, Jakarta",5.0,8.8,3,2022-12-30,7830031,2022
+Jakarta,"Senayan, Jakarta","Hotel Mulia Senayan, Jakarta",5.0,8.7,3,2022-12-30,5445000,2022
+Jakarta,"Kebagusan, Jakarta",ASTON Priority Simatupang & Conference Center,4.0,8.6,3,2022-12-30,1314463,2022
+Jakarta,"Petojo Utara, Jakarta",Merlynn Park Hotel,5.0,8.6,3,2022-12-30,1550000,2022
+Jakarta,"Karet Semanggi, Jakarta",Ascott Sudirman Jakarta,5.0,8.6,3,2022-12-30,3658560,2022
+Jakarta,"Menteng, Jakarta","The Hermitage, a Tribute Portfolio Hotel, Jakarta",5.0,8.9,3,2022-12-30,4460060,2022
+Jakarta,"Ancol, Jakarta",Mercure Convention Center Ancol,4.0,8.4,3,2022-12-30,3648333,2022
+Jakarta,"Pasar Baru, Jakarta",Hotel Borobudur Jakarta,5.0,8.6,3,2022-12-30,2572001,2022
+Jakarta,"Ancol, Jakarta",Discovery Ancol,4.0,8.2,3,2022-12-30,2691667,2022
+Jakarta,"Pasar Baru, Jakarta",Yuan Garden Pasar Baru,4.0,8.5,3,2022-12-30,1105333,2022
+Jakarta,"Slipi, Jakarta",Hotel Menara Peninsula,4.0,8.4,3,2022-12-30,1006000,2022
+Jakarta,"Senayan, Jakarta","The Ritz-Carlton Jakarta, Pacific Place Hotel",5.0,9.0,3,2022-12-30,8167500,2022
+Jakarta,"Thamrin, Jakarta",Grand Hyatt Jakarta,5.0,8.7,3,2022-12-30,9377500,2022
+Jakarta,"Senayan, Jakarta",Century Park Hotel,4.0,8.6,3,2022-12-30,2160000,2022
+Jakarta,"Cawang, Jakarta",Best Western Premier The Hive,5.0,8.4,3,2022-12-30,1133333,2022
+Jakarta,"Tanjung Duren, Jakarta",Hotel Ciputra Jakarta managed by Swiss-Belhotel International,4.0,8.5,3,2022-12-30,1463000,2022
+Jakarta,"Cikini, Jakarta",DoubleTree by Hilton Jakarta - Diponegoro,5.0,8.8,3,2022-12-30,3009019,2022
+Jakarta,"Kebayoran Lama Utara, Jakarta",Sheraton Grand Jakarta Gandaria City Hotel,5.0,8.9,3,2022-12-30,3319433,2022
+Jakarta,"Tanah Abang, Jakarta",Millennium Hotel Sirih Jakarta,4.0,8.6,3,2022-12-30,1143853,2022
+Jakarta,"Cawang, Jakarta",Teraskita Hotel Jakarta managed by Dafam,4.0,8.6,3,2022-12-30,1940000,2022
+Jakarta,"Senen, Jakarta",Lumire Hotel & Convention Center,4.0,8.5,3,2022-12-30,1016667,2022
+Jakarta,"Rasuna Said, Jakarta",Royal Kuningan Hotel,4.0,8.5,3,2022-12-30,3078126,2022
+Jakarta,"Tanjung Duren, Jakarta",Pullman Jakarta Central Park,5.0,8.5,3,2022-12-30,3442047,2022
+Jakarta,"Rasuna Said, Jakarta",Manhattan Hotel Jakarta,5.0,8.3,3,2022-12-30,2721667,2022
+Jakarta,"Lebak Bulus, Jakarta",Swiss-Belinn Simatupang Jakarta,3.0,8.5,3,2022-12-30,976667,2022
+Jakarta,"Pondok Indah, Jakarta",InterContinental Hotels JAKARTA PONDOK INDAH,5.0,8.9,3,2022-12-30,5457407,2022
+Jakarta,"Tanjung Duren, Jakarta",Grand Tropic Suites Hotel,4.0,8.0,3,2022-12-30,1223333,2022
+Jakarta,"Sudirman, Jakarta",Le Meridien Jakarta,5.0,8.7,3,2022-12-30,2420000,2022
+Jakarta,"Kuningan, Jakarta",Gran Melia Jakarta,5.0,8.8,3,2022-12-30,2259278,2022
+Jakarta,"Pondok Indah, Jakarta",Swiss-Belhotel Pondok Indah,4.0,8.5,3,2022-12-30,1423333,2022
+Jakarta,"Pluit, Jakarta",Holiday Inn Express JAKARTA PLUIT CITYGATE,3.0,8.4,3,2022-12-30,1055112,2022
+Jakarta,"Slipi, Jakarta",Hotel Santika Premiere Slipi Jakarta,4.0,8.6,3,2022-12-30,1316667,2022
+Jakarta,"Senayan, Jakarta",Fairmont Jakarta,5.0,8.9,3,2022-12-30,6473500,2022
+Jakarta,"Pecenongan, Jakarta",Redtop Hotel & Convention Center,4.0,8.5,3,2022-12-30,1213451,2022
+Jakarta,"Lebak Bulus, Jakarta",Grand Whiz Poins Simatupang Jakarta,4.0,8.6,3,2022-12-30,857813,2022
+Jakarta,"Melawai, Jakarta",Ambhara Hotel,4.0,8.3,3,2022-12-30,968000,2022
+Jakarta,"Pluit, Jakarta",ASTON Pluit Hotel & Residence,4.0,8.3,3,2022-12-30,1068280,2022
+Jakarta,"Senen, Jakarta",Hotel Gren Alia Jakarta,3.0,8.7,3,2022-12-30,841667,2022
+Jakarta,"Kebon Kacang, Jakarta",Holiday Inn Express JAKARTA WAHID HASYIM,3.0,8.6,3,2022-12-30,1568180,2022
+Jakarta,"Benda, Jakarta",ibis Styles Jakarta Airport,3.0,8.3,3,2022-12-30,714141,2022
+Jakarta,"Cawang, Jakarta",Sentral Cawang Hotel,3.0,8.4,3,2022-12-30,580500,2022
+Jakarta,"Harmoni, Jakarta",Harris Vertu Hotel Harmoni,5.0,8.6,3,2022-12-30,1468900,2022
+Jakarta,"Ancol, Jakarta",Grand Dafam Ancol Jakarta,4.0,8.4,3,2022-12-30,1786667,2022
+Jakarta,"Manggarai Selatan, Jakarta",Harris Tebet Jakarta,4.0,8.5,3,2022-12-30,1011000,2022
+Jakarta,"Kebayoran Lama Utara, Jakarta",Sheraton Grand Jakarta Gandaria City Hotel,5.0,8.9,3,2022-12-30,3319433,2022
+Jakarta,"Kalibata, Jakarta",Swiss-Belresidences Kalibata,4.0,8.6,3,2022-12-30,911667,2022
+Jakarta,"Gunung Sahari, Jakarta",Grand Mercure Jakarta Kemayoran,5.0,8.7,3,2022-12-30,1582680,2022
+Jakarta,"Kuningan, Jakarta","The Ritz-Carlton Jakarta, Mega Kuningan",5.0,8.8,3,2022-12-30,3323467,2022
+Jakarta,"Grogol, Jakarta",ASTON Kartika Grogol Hotel & Conference Center,4.0,8.6,3,2022-12-30,1784460,2022
+Jakarta,"Benda, Jakarta",Swiss-Belhotel Airport Jakarta,4.0,8.5,3,2022-12-30,911668,2022
+Jakarta,"Melawai, Jakarta",Hotel Dharmein,3.0,8.5,3,2022-12-30,583333,2022
+Jakarta,"Kebon Kacang, Jakarta",Swiss-Belinn Wahid Hasyim,3.0,8.4,3,2022-12-30,1160000,2022
+Jakarta,"Cilandak Barat, Jakarta",Ra Suites Simatupang,5.0,8.6,3,2022-12-30,1625000,2022
+Jakarta,"Karet Tengsin, Jakarta",Shangri-La Jakarta,5.0,8.9,3,2022-12-30,5320178,2022
+Jakarta,"Harmoni, Jakarta",Grand Mercure Jakarta Harmoni,5.0,8.6,3,2022-12-30,1402847,2022
+Bandung,"Merdeka, Bandung",eL Hotel Royale Bandung,4.0,8.7,3,2022-12-30,1316667,2022
+Bandung,"Cihampelas, Bandung",Grand Tjokro Premiere Bandung,4.0,8.5,3,2022-12-30,1751482,2022
+Bandung,"Dago, Bandung",Four Points by Sheraton Bandung,4.0,8.8,3,2022-12-30,2226400,2022
+Bandung,"Merdeka, Bandung",Aryaduta Bandung,4.0,8.7,3,2022-12-30,2019852,2022
+Bandung,"Pasirkaliki, Bandung",Hilton Bandung,5.0,8.8,3,2022-12-30,3065333,2022
+Bandung,"Mekarsaluyu, Bandung",InterContinental Hotels BANDUNG DAGO PAKAR,5.0,8.8,3,2022-12-30,5180328,2022
+Bandung,"Dago, Bandung",Clove Garden Hotel & Residence,4.0,8.2,3,2022-12-30,2135300,2022
+Bandung,"Dago, Bandung",Moxy Bandung,3.0,8.7,3,2022-12-30,1411667,2022
+Bandung,"Buahbatu, Bandung",ibis Bandung Trans Studio,3.0,8.4,3,2022-12-30,926667,2022
+Bandung,"Cibeunying, Bandung",Apartment Gateway Cicadas by GPro,0.0,6.9,3,2022-12-30,733333,2022
+Bandung,"Pasteur, Bandung",Holiday Inn BANDUNG PASTEUR,4.0,8.6,3,2022-12-30,1559199,2022
+Bandung,"Setiabudi, Bandung",Kytos Hotel,3.0,8.4,3,2022-12-30,3316667,2022
+Bandung,"Sumurbandung, Bandung",Crowne Plaza BANDUNG,5.0,8.7,3,2022-12-30,2392896,2022
+Bandung,"Batununggal, Bandung",Apartmen The Suite Metro By Faris Bunbun,0.0,7.7,3,2022-12-30,613000,2022
+Bandung,"Lengkong, Bandung",The Papandayan Hotel,5.0,8.8,3,2022-12-30,2854628,2022
+Bandung,"Dago, Bandung",THE 1O1 Bandung Dago,4.0,8.6,3,2022-12-30,1755000,2022
+Bandung,"Setiabudi, Bandung",GH Universal Hotel,5.0,8.5,3,2022-12-30,2579710,2022
+Bandung,"Dago, Bandung",Four Points by Sheraton Bandung,4.0,8.8,3,2022-12-30,2226400,2022
+Bandung,"Batununggal, Bandung",The Suites Metro by Desta Faris,0.0,7.5,3,2022-12-30,548000,2022
+Bandung,"Dago Atas, Bandung",Sheraton Bandung Hotel & Towers,5.0,8.7,3,2022-12-30,2944333,2022
+Bandung,"Merdeka, Bandung",Janévalla Bandung,4.0,8.8,3,2022-12-30,2351851,2022
+Bandung,"Braga, Bandung",Grand Hotel Preanger,5.0,8.6,3,2022-12-30,1916667,2022
+Bandung,"Gedebage, Bandung",Shakti Hotel Bandung,4.0,8.5,3,2022-12-30,1056667,2022
+Bandung,"Dago, Bandung",The Luxton Bandung,4.0,8.5,3,2022-12-30,1759500,2022
+Bandung,"Asia Afrika, Bandung",Maison Teraskita Bandung,4.0,8.7,3,2022-12-30,3736667,2022
+Bandung,"Jalan Riau, Bandung",Serela Riau by KAGUM Hotels,3.0,8.0,3,2022-12-30,1185833,2022
+Bandung,"Pasir Koja, Bandung",Harris Hotel & Conventions Festival Citilink Bandung,4.0,8.4,3,2022-12-30,1218667,2022
+Bandung,"Lengkong, Bandung",Horison Ultima Bandung,4.0,8.0,3,2022-12-30,1150667,2022
+Bandung,"Pasirkaliki, Bandung",Atlantic City Hotel,3.0,8.5,3,2022-12-30,673333,2022
+Bandung,"Batununggal, Bandung",Nine Inn by Edotel Dbest,2.0,7.6,3,2022-12-30,1017500,2022
+Bandung,"Setiabudi, Bandung",Grand Serela Setiabudhi by KAGUM Hotels,4.0,8.0,3,2022-12-30,1096333,2022
+Bandung,"Dago, Bandung","Courtyard by Marriott Bandung Dago, CHSE Certified",4.0,8.6,3,2022-12-30,2335300,2022
+Bandung,"Dago, Bandung",Serela Merdeka by KAGUM Hotels,3.0,8.3,3,2022-12-30,996667,2022
+Bandung,"Jalan Riau, Bandung",Amaroossa Bandung,4.0,8.2,3,2022-12-30,2204301,2022
+Bandung,"Setiabudi, Bandung",Banana Inn by KAGUM Hotels,4.0,8.4,3,2022-12-30,1033500,2022
+Bandung,"Pasir Koja, Bandung",POP! Hotel Festival Citylink - Bandung,2.0,8.2,3,2022-12-30,592000,2022
+Bandung,"Cihampelas, Bandung",Sensa Hotel Bandung,4.0,8.6,3,2022-12-30,1654667,2022
+Bandung,"Pasteur, Bandung",ibis Bandung Pasteur,3.0,8.5,3,2022-12-30,923319,2022
+Bandung,"Asia Afrika, Bandung",Mercure Bandung City Centre,4.0,8.5,3,2022-12-30,1636666,2022
+Bandung,"Pamekaran, Bandung",Grand Sunshine Resort and Convention,4.0,8.7,3,2022-12-30,3400000,2022
+Bandung,"Pasirkaliki, Bandung",Serela Waringin by KAGUM Hotels,3.0,8.0,3,2022-12-30,908833,2022
+Bandung,"Sukajadi, Bandung","Sukajadi Hotel, Convention and Gallery",3.0,8.1,3,2022-12-30,846667,2022
+Bandung,"Jalan Riau, Bandung",De Paviljoen Bandung,4.0,8.8,3,2022-12-30,2000000,2022
+Bandung,"Setiabudi, Bandung",Cinnamon Hotel Boutique Syariah,4.0,9.0,3,2022-12-30,2868772,2022
+Bandung,"Sukajadi, Bandung",Zest Hotel Sukajadi Bandung,3.0,8.7,3,2022-12-30,861555,2022
+Bandung,"Cibaduyut, Bandung",Hotel 88 Bandung Kopo,2.0,8.5,3,2022-12-30,573333,2022
+Bandung,"Pasteur, Bandung",Sari Ater Kamboti Hotel Bandung,4.0,8.3,3,2022-12-30,1037276,2022
+Bandung,"Sumurbandung, Bandung",Kedaton Hotel,3.0,8.4,3,2022-12-30,1481481,2022
+Bandung,"Setiabudi, Bandung",Hemangini Hotel Bandung,4.0,8.5,3,2022-12-30,2037037,2022
+Medan,"Pusat Kota Medan, Medan",Cambridge Hotel Medan,5.0,8.5,3,2022-12-30,2166667,2022
+Medan,"Pusat Kota Medan, Medan",JW Marriott Hotel Medan,5.0,8.7,3,2022-12-30,2369181,2022
+Medan,"Beringin, Medan",Horison Sky Kualanamu,3.0,8.5,3,2022-12-30,612207,2022
+Medan,"Medan Baru, Medan",Hotel Anaya,0.0,6.9,3,2022-12-30,300000,2022
+Medan,"Batang Kuis, Medan",Prime Plaza Hotel Kualanamu,4.0,8.6,3,2022-12-30,1205066,2022
+Medan,"Pusat Kota Medan, Medan",Cordex Hotel Medan,0.0,8.6,3,2022-12-30,376667,2022
+Medan,"Percut Sei Tuan, Medan",Miyanna Hotel,3.0,7.9,3,2022-12-30,479400,2022
+Medan,"Pusat Kota Medan, Medan",SELECTA HOTEL,4.0,8.2,3,2022-12-30,673334,2022
+Medan,"Tanjung Morawa, Medan",OYO 2361 Hotel Winston,2.0,7.2,3,2022-12-30,147857,2022
+Medan,"Medan Petisah, Medan",Grand Kanaya Hotel,3.0,8.1,3,2022-12-30,663333,2022
+Medan,"Tanjung Morawa, Medan",CREW EXPRESS Hotel,3.0,8.3,3,2022-12-30,275000,2022
+Medan,"Pusat Kota Medan, Medan",Hotel Antares,3.0,7.9,3,2022-12-30,388667,2022
+Medan,"Medan Petisah, Medan",Swasana Hotel Medan,3.0,8.4,3,2022-12-30,650000,2022
+Medan,"Medan Helvetia, Medan",Cordela Inn Millenium Medan,2.0,8.4,3,2022-12-30,430000,2022
+Medan,"Medan Petisah, Medan",Alpha Inn Medan,3.0,7.7,3,2022-12-30,368295,2022
+Medan,"Pusat Kota Medan, Medan",Cordela Hotel Medan,2.0,8.4,3,2022-12-30,549440,2022
+Medan,"Medan Polonia, Medan",Pardede International Hotel Medan,3.0,7.7,3,2022-12-30,450638,2022
+Medan,"Pusat Kota Medan, Medan",Wisma Sederhana Budget Hotel,0.0,8.3,3,2022-12-30,280000,2022
+Medan,"Medan Maimun, Medan",Hotel Menara Lexus,0.0,7.7,3,2022-12-30,310000,2022
+Medan,"Medan Tembung, Medan",NIVIA HOTEL,3.0,8.8,3,2022-12-30,360000,2022
+Medan,"Batang Kuis, Medan",Lively Hotel Kualanamu Airport Medan,2.0,8.0,3,2022-12-30,199999,2022
+Medan,"Pusat Kota Medan, Medan",OYO 2345 Homestay Jaya,1.0,7.0,3,2022-12-30,88793,2022
+Medan,"Tanjung Morawa, Medan",Hotel Aero,2.0,7.9,3,2022-12-30,215599,2022
+Medan,"Medan Petisah, Medan",OYO 90565 Wesly House,1.0,8.0,3,2022-12-30,217539,2022
+Medan,"Pusat Kota Medan, Medan",Amaliun Hotel,2.0,8.1,3,2022-12-30,260235,2022
+Medan,"Medan Baru, Medan",Odua Golden Mansyur Medan,0.0,8.4,3,2022-12-30,270750,2022
+Medan,"Medan Helvetia, Medan",OYO 90457 Anara Residence & Guest House,2.0,8.4,3,2022-12-30,171678,2022
+Medan,"Pusat Kota Medan, Medan",OYO 1457 Tmj Guest House,1.5,7.9,3,2022-12-30,162193,2022
+Medan,"Medan Petisah, Medan",Putra Mulia Hotel,3.0,7.8,3,2022-12-30,482667,2022
+Medan,"Medan Area, Medan",Alam Hotel by Cordela,3.0,8.4,3,2022-12-30,388667,2022
+Medan,"Medan Sunggal, Medan",OYO 2574 Z Suites Hotel,2.0,7.3,3,2022-12-30,140217,2022
+Medan,"Medan Baru, Medan",Hotel Anaya,0.0,6.9,3,2022-12-30,300000,2022
+Medan,"Pusat Kota Medan, Medan",OYO 456 Aljadid Guest House Syariah,2.0,8.4,3,2022-12-30,219820,2022
+Medan,"Pusat Kota Medan, Medan",Kanasha Hotel,1.0,8.8,3,2022-12-30,320000,2022
+Medan,"Medan Selayang, Medan",OYO 1400 Barat Residence Syariah,1.5,7.6,3,2022-12-30,143762,2022
+Medan,"Medan Petisah, Medan",OYO 90447 Kardopa Hotel Megapark,1.0,8.1,3,2022-12-30,791425,2022
+Medan,"Medan Selayang, Medan",Huber Apartment,2.0,7.8,3,2022-12-30,398000,2022
+Medan,"Batang Kuis, Medan",My Studio Hotel Kualanamu Airport Medan,1.0,8.3,3,2022-12-30,69999,2022
+Medan,"Medan Baru, Medan",OYO 1183 Papakoel,1.0,8.1,3,2022-12-30,141141,2022
+Medan,"Pusat Kota Medan, Medan",Vivo Stay,2.0,7.6,3,2022-12-30,257972,2022
+Medan,"Medan Tembung, Medan",OYO 359 Executive Inn,1.0,8.1,3,2022-12-30,134924,2022
+Denpasar,"Denpasar Barat, Denpasar",Adi Pelita Sari,0.0,8.6,3,2022-12-30,455050,2022
+Banda Aceh,"Ulee Kareng, Banda Aceh",Hermes Palace by BENCOOLEN,5.0,8.4,3,2022-12-30,1048000,2022
+Banda Aceh,"Baiturrahman, Banda Aceh",Hip Hope Hotel,2.0,8.7,3,2022-12-30,518333,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Kyriad Hotel Muraya Aceh,4.0,8.6,3,2022-12-30,948333,2022
+Banda Aceh,"Banda Raya, Banda Aceh",The Pade Hotel,3.0,8.5,3,2022-12-30,914771,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel Medan Banda Aceh,0.0,8.4,3,2022-12-30,380000,2022
+Banda Aceh,"Meuraksa, Banda Aceh",Grand Arabia Hotel,3.0,8.5,3,2022-12-30,847667,2022
+Banda Aceh,"Baiturrahman, Banda Aceh",Plum Hotel Lading Banda Aceh,3.0,8.1,3,2022-12-30,283333,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",SPOT ON 2134 Seunia Hotel,1.0,8.0,3,2022-12-30,133083,2022
+Banda Aceh,"Banda Raya, Banda Aceh",Hotel Rasamala,3.0,8.3,3,2022-12-30,875000,2022
+Banda Aceh,"Meuraksa, Banda Aceh",Hotel Amel & Convention Hall,3.0,8.2,3,2022-12-30,366667,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",OYO 854 Ub Caisar Hotel,2.0,7.0,3,2022-12-30,232453,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel Mekkah,3.0,7.6,3,2022-12-30,440000,2022
+Banda Aceh,"Ulee Kareng, Banda Aceh",Kumala Hotel Banda Aceh,2.0,8.5,3,2022-12-30,590000,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Grand Nanggroe Hotel,3.0,7.5,3,2022-12-30,695122,2022
+Banda Aceh,"Baiturrahman, Banda Aceh",Seventeen Hotel,3.0,8.5,3,2022-12-30,572290,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel 61 Banda Aceh,2.0,7.7,3,2022-12-30,352942,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",Mita Mulia Hotel,0.0,8.4,3,2022-12-30,300000,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Oasis Atjeh Hotel,3.0,8.2,3,2022-12-30,540000,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Al-Hanifi Hotel,0.0,8.4,3,2022-12-30,450000,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Capital O 2018 Ring Road Guest House Syariah,2.0,8.0,3,2022-12-30,257852,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",SPOT ON 2134 Seunia Hotel,1.0,8.0,3,2022-12-30,133083,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",My Home Aceh,0.0,8.4,3,2022-12-30,279999,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Capital O 1630 Hotel Syariah Ring Road,1.5,7.8,3,2022-12-30,447419,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel Madinah,2.0,6.9,3,2022-12-30,363417,2022
+Banda Aceh,"Banda Raya, Banda Aceh",Hozby Family Suites,0.0,8.4,3,2022-12-30,680000,2022
+Padang,"Padang Selatan, Padang",The ZHM Premiere (d/h Grand Zuri) Padang,4.0,8.6,3,2022-12-30,1010367,2022
+Padang,"Padang Barat, Padang",Truntum Padang Hotel,4.0,8.6,3,2022-12-30,1074667,2022
+Padang,"Padang Utara, Padang",ibis Padang,3.0,8.2,3,2022-12-30,1589192,2022
+Padang,"Padang Barat, Padang",Rocky Plaza Hotel Padang,4.0,8.3,3,2022-12-30,1019727,2022
+Padang,"Padang Utara, Padang",Pangeran Beach Hotel,4.0,8.3,3,2022-12-30,1310833,2022
+Padang,"Padang Barat, Padang",Mercure Padang,4.0,8.4,3,2022-12-30,1200334,2022
+Padang,"Padang Barat, Padang",Ocean Beach Hotel,3.5,8.4,3,2022-12-30,1840000,2022
+Padang,"Padang Barat, Padang",Rocky Plaza Hotel Padang,4.0,8.3,3,2022-12-30,1019727,2022
+Padang,"Padang Barat, Padang",Kyriad Bumiminang Hotel Padang,4.0,8.0,3,2022-12-30,974667,2022
+Padang,"Padang Barat, Padang",The Axana Hotel,4.0,8.0,3,2022-12-30,944963,2022
+Padang,"Padang Barat, Padang",Kyriad Bumiminang Hotel Padang,4.0,8.0,3,2022-12-30,974667,2022
+Padang,"Padang Barat, Padang",favehotel Olo Padang,3.0,8.1,3,2022-12-30,1497133,2022
+Padang,"Padang Barat, Padang",Deivan Hotel,2.0,8.3,3,2022-12-30,600000,2022
+Padang,"Pauh, Padang",Imelda Hotel - Water Park - Convention,4.0,8.0,3,2022-12-30,442000,2022
+Padang,"Padang Barat, Padang",Nagari Koto Gadang,0.0,8.9,3,2022-12-30,350000,2022
+Padang,"Nanggalo, Padang",New d'Dhave Hotel,2.5,8.1,3,2022-12-30,716667,2022
+Padang,"Padang Utara, Padang",OYO 3305 Bumi Siliwangi Residence,1.0,7.7,3,2022-12-30,325902,2022
+Padang,"Padang Barat, Padang",Fazarel Residence Syariah,2.0,8.3,3,2022-12-30,500000,2022
+Padang,"Padang Barat, Padang",d'Dhave hotel,0.0,7.7,3,2022-12-30,464167,2022
+Padang,"Padang Utara, Padang",TANAHOTEL PADANG,2.0,8.4,3,2022-12-30,707089,2022
+Padang,"Padang Selatan, Padang",Kinol Homestay,1.0,7.6,3,2022-12-30,90000,2022
+Padang,"Padang Barat, Padang",OYO 1673 M Authentic Kost Man,2.0,7.4,3,2022-12-30,167508,2022
+Padang,"Padang Utara, Padang",OYO 91675 Utama Residence,0.0,8.4,3,2022-12-30,620169,2022
+Padang,"Padang Utara, Padang",Kelapa Gading Guesthouse II,0.0,7.9,3,2022-12-30,323333,2022
+Padang,"Padang Selatan, Padang",Jesnic Hotel,1.0,7.8,3,2022-12-30,550000,2022
+Padang,"Nanggalo, Padang",TEE HOTEL,0.0,8.3,3,2022-12-30,350000,2022
+Padang,"Lubuk Begalung, Padang",Wisma Ayank,1.0,8.6,3,2022-12-30,222333,2022
+Padang,"Padang Utara, Padang",Wisma Tatar Pasundan,0.0,8.1,3,2022-12-30,245333,2022
+Padang,"Padang Timur, Padang",HOTEL RUMAH RB,0.0,6.6,3,2022-12-30,500000,2022
+Padang,"Padang Barat, Padang",Hotel Bintang Padang,1.0,7.7,3,2022-12-30,450000,2022
+Padang,"Padang Barat, Padang",Lestari Guesthouse,0.0,8.4,3,2022-12-30,339803,2022
+Padang,"Padang Barat, Padang",Wisma Rumah KIta,1.5,8.4,3,2022-12-30,284899,2022
+Padang,"Padang Timur, Padang",Rumah Tamu Agung,0.0,8.4,3,2022-12-30,169999,2022
+Palembang,"Plaju, Palembang",Wyndham Opi Hotel Palembang,5.0,8.5,3,2022-12-30,2003658,2022
+Palembang,"Ilir Timur I, Palembang",Beston Hotel Palembang (FKA Horison Ultima Palembang),4.0,8.5,3,2022-12-30,1149682,2022
+Palembang,"Ilir Timur II, Palembang",The Alts Hotel,4.0,8.6,3,2022-12-30,1451851,2022
+Palembang,"Ilir Timur II, Palembang",ASTON Palembang Hotel & Conference Center,4.0,8.5,3,2022-12-30,1385133,2022
+Palembang,"Ilir Timur I, Palembang",All Nite & Day Palembang - Veteran,3.0,8.6,3,2022-12-30,747333,2022
+Palembang,"Ilir Timur II, Palembang",MaxOneHotels.com @ Vivo Palembang,3.0,8.2,3,2022-12-30,517545,2022
+Palembang,"Bukit Kecil, Palembang",The Zuri Palembang,4.0,8.6,3,2022-12-30,4703703,2022
+Palembang,"Ilir Timur II, Palembang",Rio City Hotel,3.0,7.9,3,2022-12-30,534000,2022
+Palembang,"Ilir Barat I, Palembang",BATIQA Hotel Palembang,3.5,8.5,3,2022-12-30,863333,2022
+Palembang,"Ilir Timur II, Palembang",favehotel Palembang,3.0,8.4,3,2022-12-30,803733,2022
+Palembang,"Ilir Timur II, Palembang",Harper Palembang by ASTON,4.0,8.4,3,2022-12-30,1294829,2022
+Palembang,"Bukit Kecil, Palembang",Hotel Santika Radial Palembang,3.0,8.5,3,2022-12-30,1100000,2022
+Palembang,"Ilir Barat I, Palembang",The Excelton Hotel,5.0,8.5,3,2022-12-30,1366667,2022
+Palembang,"Ilir Timur II, Palembang",Algoritma Hotel Palembang,3.0,8.4,3,2022-12-30,550370,2022
+Palembang,"Ilir Timur II, Palembang",The 1O1 Palembang Rajawali,4.0,8.6,3,2022-12-30,1056333,2022
+Palembang,"Ilir Timur I, Palembang",Ayola Sentosa Palembang,3.0,8.5,3,2022-12-30,556936,2022
+Palembang,"Bukit Kecil, Palembang",Emilia Hotel By Amazing - Palembang,3.0,8.6,3,2022-12-30,916667,2022
+Palembang,"Ilir Timur I, Palembang",Luminor Hotel Palembang,3.0,8.2,3,2022-12-30,800000,2022
+Palembang,"Ilir Timur II, Palembang",Opa Hotel Palembang,4.0,8.3,3,2022-12-30,611667,2022
+Palembang,"Alang-Alang Lebar, Palembang",Rid's Hotel Palembang,3.0,8.8,3,2022-12-30,412667,2022
+Palembang,"Ilir Timur II, Palembang",Cordela Inn R. Sukamto Palembang,2.0,8.5,3,2022-12-30,456667,2022
+Palembang,"Ilir Timur II, Palembang",Sintesa Peninsula Hotel Palembang,4.0,8.2,3,2022-12-30,599667,2022
+Palembang,"Ilir Timur II, Palembang",Rio City Hotel,3.0,7.9,3,2022-12-30,534000,2022
+Palembang,"Ilir Timur II, Palembang",Hotel Harvani,2.0,8.1,3,2022-12-30,398333,2022
+Palembang,"Ilir Barat I, Palembang",Barong Hotel,1.0,8.1,3,2022-12-30,375000,2022
+Palembang,"Ilir Timur II, Palembang",OYO 142 Hotel Al Furqon Syariah,2.0,8.4,3,2022-12-30,143421,2022
+Palembang,"Ilir Barat I, Palembang",The Emerald Inn,1.5,8.3,3,2022-12-30,370000,2022
+Palembang,"Ilir Timur I, Palembang",Denata B&B,2.0,8.5,3,2022-12-30,309600,2022
+Palembang,"Ilir Timur I, Palembang",Cemerlang Inn,0.0,8.0,3,2022-12-30,315873,2022
+Palembang,"Ilir Timur II, Palembang",Alpha Family Kostel,2.0,8.2,3,2022-12-30,289900,2022
+Palembang,"Ilir Timur II, Palembang",Homestay 82 Syariah Palembang,2.0,8.4,3,2022-12-30,307779,2022
+Palembang,"Ilir Timur I, Palembang",U_xpress Hotel,0.0,8.3,3,2022-12-30,305000,2022
+Palembang,"Sukarame, Palembang",Hotel Alam Sutra,2.0,8.2,3,2022-12-30,325000,2022
+Palembang,"Sukarame, Palembang",OYO 3431 Alpha Hotel Syariah,1.0,8.2,3,2022-12-30,166234,2022
+Palembang,"Ilir Timur I, Palembang",Circle One,0.0,8.4,3,2022-12-30,306667,2022
+Palembang,"Sukarame, Palembang",Desilva Bandara,2.0,8.3,3,2022-12-30,180000,2022
+Palembang,"Ilir Timur I, Palembang",OYO 1389 Hotel Carissima,1.0,7.6,3,2022-12-30,149650,2022
+Palembang,"Ilir Timur II, Palembang",OYO 90226 Penginapan Sederhana Syariah,1.0,8.5,3,2022-12-30,99615,2022
+Palembang,"Sukarame, Palembang",roriz house palembang,0.0,8.4,3,2022-12-30,303333,2022
+Palembang,"Ilir Timur II, Palembang",Wisma Cendana Syariah,0.0,8.7,3,2022-12-30,145000,2022
+Palembang,"Ilir Timur II, Palembang",Collection O 90428 Remington Hotel,0.0,8.5,3,2022-12-30,238699,2022
+Palembang,"Ilir Barat I, Palembang",D'Paragon Dwikora,0.0,7.8,3,2022-12-30,550000,2022
+Palembang,"Ilir Timur II, Palembang",OYO 1868 Penginapan Sekip,0.0,7.8,3,2022-12-30,163873,2022
+Palembang,"Ilir Barat I, Palembang",OYO 2177 Trikora Indah Residence Palembang,1.0,7.3,3,2022-12-30,123350,2022
+Palembang,"Sukarame, Palembang",OYO 91680 Hotel Mentari,0.0,8.4,3,2022-12-30,105851,2022
+Palembang,"Plaju, Palembang",Hotel Grand Putri Sriwijaya Syariah,0.0,8.4,3,2022-12-30,305000,2022
+Palembang,"Ilir Barat I, Palembang",D'Paragon Trikora,0.0,8.0,3,2022-12-30,495000,2022
+Palembang,"Ilir Timur I, Palembang",OYO 90412 My Kost,0.0,7.1,3,2022-12-30,132405,2022
+Palembang,"Sukarame, Palembang",Green Guesthouse,0.0,8.5,3,2022-12-30,135000,2022
+Palembang,"Ilir Barat I, Palembang",OYO 91160 Wisma Srijaya Syariah,1.5,7.6,3,2022-12-30,58274,2022
+Palembang,"Ilir Timur I, Palembang",OYO 91805 Hotel Wisma Bari,0.0,8.4,3,2022-12-30,151342,2022
+Bogor,"Sentul, Bogor",Lorin Sentul Hotel,4.0,7.9,3,2022-12-30,1044667,2022
+Bogor,"Sentul, Bogor",ASTON Sentul Lake Resort & Conference Center,4.0,8.5,3,2022-12-30,3035782,2022
+Bogor,"Padjajaran, Bogor",Grand Savero Hotel Bogor,4.0,8.5,3,2022-12-30,1549333,2022
+Bogor,"Ciawi, Bogor",Horison Ultima Bhuvana Ciawi,4.0,8.5,3,2022-12-30,2377778,2022
+Bogor,"Bogor Raya, Bogor",ibis Styles Bogor Raya,4.0,8.8,3,2022-12-30,1114333,2022
+Bogor,"Bogor Raya, Bogor",Novotel Bogor Golf Resort & Convention Center,5.0,8.4,3,2022-12-30,2891766,2022
+Bogor,"Bogor Selatan, Bogor",R Hotel Rancamaya,4.0,8.8,3,2022-12-30,2501767,2022
+Bogor,"Bogor Nirwana Residence, Bogor",Padjadjaran Suites Resort & Convention Hotel,4.0,8.2,3,2022-12-30,931333,2022
+Bogor,"Padjajaran, Bogor",Savero Style Bogor,2.0,8.5,3,2022-12-30,983333,2022
+Bogor,"Bogor Nirwana Residence, Bogor",Padjadjaran Suites Resort & Convention Hotel,4.0,8.2,3,2022-12-30,931333,2022
+Bogor,"Padjajaran, Bogor",Arch Hotel Bogor,3.5,8.3,3,2022-12-30,823333,2022
+Bogor,"Bogor Selatan, Bogor",Green Forest Bogor,4.0,7.9,3,2022-12-30,1083333,2022
+Bogor,"Padjajaran, Bogor",Padjadjaran Hotel,4.0,8.2,3,2022-12-30,910000,2022
+Bogor,"Tanah Sareal, Bogor",The Sahira Hotel ( Syariah Hotel ),4.0,8.7,3,2022-12-30,1333333,2022
+Bogor,"Bogor Timur, Bogor",Citrus-house,1.0,8.7,3,2022-12-30,745000,2022
+Bogor,"Juanda, Bogor",Onih Hotel,3.0,8.6,3,2022-12-30,866667,2022
+Bogor,"Sentul, Bogor",New Green Sentul Resort & Hotel,1.0,8.0,3,2022-12-30,722333,2022
+Bogor,"Juanda, Bogor",Sahira Butik Hotel (Syariah Hotel),3.0,8.6,3,2022-12-30,916667,2022
+Bogor,"Pakuan, Bogor",Rizen Padjadjaran Hotel,3.0,8.2,3,2022-12-30,623661,2022
+Bogor,"Caringin, Bogor",The Village Resort Bogor By Waringin Hospitality,2.0,7.7,3,2022-12-30,4420000,2022
+Bogor,"Ciawi, Bogor",Pelindo Residence (Syariah),3.0,8.6,3,2022-12-30,533333,2022
+Bogor,"Padjajaran, Bogor",Light Box,2.0,8.2,3,2022-12-30,588000,2022
+Bogor,"Pakuan, Bogor",Sahira Butik Pakuan (Syariah Hotel),3.0,8.7,3,2022-12-30,1070000,2022
+Bogor,"Ciomas, Bogor",Sienna Residence,0.0,8.8,3,2022-12-30,792667,2022
+Bogor,"Bogor Tengah, Bogor",Residence Tanjung Pakuan,0.0,7.1,3,2022-12-30,236667,2022
+Semarang,"Semarang Tengah, Semarang",Po Hotel (FKA Crowne Plaza Semarang),5.0,8.4,3,2022-12-30,25296000,2022
+Semarang,"Semarang Tengah, Semarang",Gumaya Tower Hotel Semarang,5.0,8.8,3,2022-12-30,2433333,2022
+Semarang,"Bandungan, Semarang",Amanda Hills Bandungan,3.0,8.1,3,2022-12-30,708333,2022
+Semarang,"Semarang Tengah, Semarang",Hotel Ciputra Semarang managed by Swiss-Belhotel International,5.0,8.6,3,2022-12-30,2181667,2022
+Semarang,"Semarang Tengah, Semarang",Whiz Hotel Pemuda Semarang,2.0,8.3,3,2022-12-30,940000,2022
+Semarang,"Candisari, Semarang",Grand Candi Hotel Semarang,5.0,8.3,3,2022-12-30,2700000,2022
+Semarang,"Semarang Tengah, Semarang",HA-KA Simpang Lima Hotel Semarang,3.0,8.4,3,2022-12-30,1123732,2022
+Semarang,"Semarang Timur, Semarang",Horison Kota Lama Semarang,3.0,8.2,3,2022-12-30,1104300,2022
+Semarang,"Kota Lama, Semarang",Golden City Hotel and Convention Center,4.0,8.5,3,2022-12-30,1399000,2022
+Semarang,"Kota Lama, Semarang",Golden City Hotel and Convention Center,4.0,8.5,3,2022-12-30,1399000,2022
+Semarang,"Bandungan, Semarang",Amanda Hills Bandungan,3.0,8.1,3,2022-12-30,708333,2022
+Semarang,"Semarang Barat, Semarang",The Azana Hotel Airport Semarang,4.0,8.4,3,2022-12-30,1058148,2022
+Semarang,"Semarang Tengah, Semarang",Citrip Hotel Simpang Lima (FKA CityOne),2.0,8.2,3,2022-12-30,822000,2022
+Semarang,"Semarang Tengah, Semarang",Hotel Citradream Semarang,2.0,8.4,3,2022-12-30,800000,2022
+Semarang,"Gajahmungkur, Semarang",Candiview Hotel Semarang,2.0,8.3,3,2022-12-30,808333,2022
+Semarang,"Pedurungan, Semarang",Hotel Dalu Semarang,2.0,8.3,3,2022-12-30,438800,2022
+Semarang,"Gajahmungkur, Semarang",Hotel Grasia,3.0,8.1,3,2022-12-30,1100789,2022
+Semarang,"Candisari, Semarang",Hotel Pantes Candi Simpang Lima,1.0,8.1,3,2022-12-30,652667,2022
+Semarang,"Banyumanik, Semarang",Plaza Hotel Semarang,3.0,8.1,3,2022-12-30,496750,2022
+Yogyakarta,"Depok, Yogyakarta",INNSIDE by Melia Yogyakarta,4.0,8.6,3,2022-12-30,1774667,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Melia Purosani Yogyakarta,5.0,8.7,3,2022-12-30,4000000,2022
+Yogyakarta,"Mantrijeron, Yogyakarta",The Alana Hotel & Conference Center Malioboro Yogyakarta by ASTON,4.0,8.8,3,2022-12-30,3079583,2022
+Yogyakarta,"Ngaglik, Yogyakarta",The Alana Yogyakarta Hotel & Convention Center,4.0,8.8,3,2022-12-30,2042010,2022
+Yogyakarta,"Depok, Yogyakarta",Yogyakarta Marriott Hotel,5.0,9.0,3,2022-12-30,2645867,2022
+Yogyakarta,"Ngaglik, Yogyakarta",Hyatt Regency Yogyakarta,5.0,8.9,3,2022-12-30,2700838,2022
+Yogyakarta,"Ngaglik, Yogyakarta",The Alana Yogyakarta Hotel & Convention Center,4.0,8.8,3,2022-12-30,2042010,2022
+Yogyakarta,"Depok, Yogyakarta",Sheraton Mustika Yogyakarta Resort & Spa,5.0,8.5,3,2022-12-30,1825084,2022
+Yogyakarta,"Depok, Yogyakarta",Yogyakarta Marriott Hotel,5.0,9.0,3,2022-12-30,2645867,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",ARTOTEL Suites Bianti Yogyakarta,5.0,8.8,3,2022-12-30,3148333,2022
+Yogyakarta,"Depok, Yogyakarta",Royal Ambarrukmo Yogyakarta,5.0,9.0,3,2022-12-30,3497245,2022
+Yogyakarta,"Seturan, Yogyakarta",Hotel Dafam Fortuna Seturan,4.0,8.5,3,2022-12-30,1029999,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",eL Hotel Royale Yogyakarta Malioboro,4.0,8.7,3,2022-12-30,4890000,2022
+Yogyakarta,"Depok, Yogyakarta",Grand Mercure Yogyakarta Adi Sucipto,5.0,8.6,3,2022-12-30,1781033,2022
+Yogyakarta,"Mlati, Yogyakarta",The Rich Jogja Hotel,4.0,8.5,3,2022-12-30,2000000,2022
+Yogyakarta,"Depok, Yogyakarta",Grand Diamond Hotel Yogyakarta,4.0,8.5,3,2022-12-30,1210370,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Malyabhara Hotel,3.0,8.0,3,2022-12-30,2184667,2022
+Yogyakarta,"Depok, Yogyakarta",Lafayette Boutique Hotel,5.0,8.8,3,2022-12-30,3015667,2022
+Yogyakarta,"Ngaglik, Yogyakarta",Indoluxe Hotel Jogjakarta,4.0,8.7,3,2022-12-30,1350000,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",ARTOTEL Suites Bianti Yogyakarta,5.0,8.8,3,2022-12-30,3148333,2022
+Yogyakarta,"Depok, Yogyakarta",Next Hotel Yogyakarta,4.0,7.9,3,2022-12-30,1281852,2022
+Yogyakarta,"Umbulharjo, Yogyakarta",favehotel Kusumanegara,3.0,8.2,3,2022-12-30,2066667,2022
+Yogyakarta,"Jetis, Yogyakarta",Harper Malioboro Yogyakarta by ASTON,4.0,8.8,3,2022-12-30,4603895,2022
+Yogyakarta,"Gejayan, Yogyakarta",Prime Plaza Hotel Jogjakarta,4.0,8.8,3,2022-12-30,1558800,2022
+Yogyakarta,"Depok, Yogyakarta",Yellow Star Ambarukmo Hotel,3.0,8.4,3,2022-12-30,1151667,2022
+Yogyakarta,"Gejayan, Yogyakarta",Yellow Star Gejayan Hotel,3.0,8.5,3,2022-12-30,1109000,2022
+Yogyakarta,"Depok, Yogyakarta",The Jayakarta Yogyakarta Hotel & Spa,4.0,8.3,3,2022-12-30,1456000,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",Grand Kangen Hotel Urip Sumoharjo Yogyakarta,3.0,8.5,3,2022-12-30,1401514,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Patra Malioboro Hotel,3.0,8.9,3,2022-12-30,2500000,2022
+Yogyakarta,"Gejayan, Yogyakarta",Grand Keisha Yogyakarta,4.0,8.9,3,2022-12-30,2766667,2022
+Yogyakarta,"Jalan Prawirotaman, Yogyakarta",KJ Hotel Yogyakarta,4.0,8.7,3,2022-12-30,1617773,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Abadi Hotel Malioboro Yogyakarta by Tritama Hospitality,4.0,8.5,3,2022-12-30,1786753,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",All Nite & Day Hotel Yogyakarta - Gejayan,3.0,8.4,3,2022-12-30,1240000,2022
+Yogyakarta,"Banguntapan, Yogyakarta",Grand Rohan Jogja,4.0,8.7,3,2022-12-30,4397550,2022
+Yogyakarta,"Gejayan, Yogyakarta",The Manohara Hotel Yogyakarta,4.0,8.7,3,2022-12-30,3500000,2022
+Yogyakarta,"Depok, Yogyakarta",ibis Yogyakarta Adi Sucipto,3.0,8.7,3,2022-12-30,1251566,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",Sagan Heritage Hotel,3.0,8.3,3,2022-12-30,966667,2022
+Yogyakarta,"Depok, Yogyakarta",Aveon Hotel Yogyakarta by Daphna International,4.0,8.3,3,2022-12-30,1522067,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",h Boutique Hotel Jogjakarta,3.0,8.5,3,2022-12-30,1568593,2022
+Yogyakarta,"Gejayan, Yogyakarta",Grand Sarila Hotel Yogyakarta,3.0,8.2,3,2022-12-30,976666,2022
+Yogyakarta,"Depok, Yogyakarta",Student Castle Apartment HD,0.0,7.8,3,2022-12-30,878333,2022
+Yogyakarta,"Mantrijeron, Yogyakarta",Horison Lynn Yogyakarta,3.0,8.5,3,2022-12-30,1250000,2022
+Yogyakarta,"Depok, Yogyakarta",D'Salvatore Art & Boutique Hotel,3.0,8.4,3,2022-12-30,1833333,2022
+Solo,"Colomadu, Solo",The Alana Hotel and Convention Center - Solo by ASTON,4.0,8.6,3,2022-12-30,1222221,2022
+Solo,"Gilingan, Solo",Swiss-Belhotel Solo,4.0,8.7,3,2022-12-30,1579999,2022
+Solo,"Kartasura, Solo",Syariah Hotel Solo,4.0,8.4,3,2022-12-30,729600,2022
+Solo,"Solo Baru, Solo",Grand Mercure Solo Baru,5.0,8.8,3,2022-12-30,1397147,2022
+Solo,"Purwosari, Solo",POP! Hotel Solo,2.0,8.5,3,2022-12-30,594333,2022
+Solo,"Solo Baru, Solo",favehotel Solo Baru,3.0,8.3,3,2022-12-30,698133,2022
+Solo,"Kerten, Solo",favehotel Manahan - Solo,3.0,8.2,3,2022-12-30,698133,2022
+Solo,"Ngemplak, Solo",Al Azhar Azhima Hotel Resort & Convention,3.0,7.8,3,2022-12-30,700000,2022
+Solo,"Setabelan, Solo",MAHALAYA The Legacy Hotel,4.0,9.2,3,2022-12-30,2274667,2022
+Solo,"Timuran, Solo",Grand Orchid Hotel Solo,3.0,8.0,3,2022-12-30,1966667,2022
+Solo,"Timuran, Solo",Grand Orchid Hotel Solo,3.0,8.0,3,2022-12-30,1966667,2022
+Solo,"Solo Baru, Solo",LOA Living Solo Baru,3.0,8.7,3,2022-12-30,2800000,2022
+Solo,"Kerten, Solo",The Amrani Syariah Hotel,3.0,8.6,3,2022-12-30,1073333,2022
+Solo,"Solo Baru, Solo",Hotel Tosan Solo Baru,3.0,8.3,3,2022-12-30,1466667,2022
+Solo,"Kestalan, Solo",Twin Star Hotel Solo,2.0,8.3,3,2022-12-30,397436,2022
+Solo,"Purwosari, Solo",Diamond Hotel,2.0,8.4,3,2022-12-30,1333333,2022
+Solo,"Jebres, Solo",Fivecord Hotel Solo,0.0,8.8,3,2022-12-30,590000,2022
+Solo,"Sriwedari, Solo",The Margangsa Hotel,2.0,8.3,3,2022-12-30,683333,2022
+Solo,"Tipes, Solo",Indah Palace Solo,3.0,8.2,3,2022-12-30,1050000,2022
+Solo,"Kemlayan, Solo",Front One Cabin Slamet Riyadi,1.0,8.4,3,2022-12-30,354500,2022
+Solo,"Kartasura, Solo",Assalaam Syariah Hotel Solo,3.0,8.2,3,2022-12-30,516667,2022
+Solo,"Purwosari, Solo",Diamond Hotel,2.0,8.4,3,2022-12-30,1333333,2022
+Solo,"Pucang Sawit, Solo",Hotel Bintang Solo,2.0,7.6,3,2022-12-30,395000,2022
+Solo,"Ngemplak, Solo",Al Azhar Azhima Hotel Resort & Convention,3.0,7.8,3,2022-12-30,700000,2022
+Solo,"Ketelan, Solo",Hotel Sahid Jaya Solo,5.0,8.2,3,2022-12-30,7333333,2022
+Solo,"Laweyan, Solo",Malioboro Inn Solo,2.0,8.2,3,2022-12-30,433333,2022
+Solo,"Solo Baru, Solo",Griya Surya Solo Guesthouse,1.0,8.3,3,2022-12-30,140000,2022
+Solo,"Jajar, Solo",D'paragon Kerten,0.0,8.0,3,2022-12-30,850000,2022
+Solo,"Manahan, Solo",Hotel Grand Setia Kawan,3.0,7.1,3,2022-12-30,370313,2022
+Solo,"Jajar, Solo",Luxury Inn Guest House,0.0,8.6,3,2022-12-30,411333,2022
+Solo,"Tegalharjo, Solo",Griya Tenera Syariah,1.0,8.1,3,2022-12-30,350833,2022
+Surabaya,"Tegalsari, Surabaya",Tunjungan Hotel Surabaya,4.0,8.0,3,2022-12-30,861333,2022
+Surabaya,"Wonokromo, Surabaya",Grand Darmo Suite by AMITHYA,4.0,8.3,3,2022-12-30,1926333,2022
+Surabaya,"Wonokromo, Surabaya",The Alana Surabaya,4.0,8.7,3,2022-12-30,1202533,2022
+Surabaya,"Tegalsari, Surabaya",Four Points by Sheraton Surabaya,4.0,9.2,3,2022-12-30,1847267,2022
+Surabaya,"Wonokromo, Surabaya",The Alana Surabaya,4.0,8.7,3,2022-12-30,1202533,2022
+Surabaya,"Wonokromo, Surabaya",Midtown Residence Marvell City Surabaya,4.0,8.9,3,2022-12-30,1062833,2022
+Surabaya,"Sukomanunggal, Surabaya",Vasa Hotel Surabaya,5.0,8.7,3,2022-12-30,2027116,2022
+Surabaya,"Tegalsari, Surabaya",Sheraton Surabaya Hotel and Towers,5.0,8.8,3,2022-12-30,2303034,2022
+Surabaya,"Gedangan, Surabaya",Premier Place Surabaya Airport,3.0,8.7,3,2022-12-30,774350,2022
+Surabaya,"Sawahan, Surabaya",Shangri-La Surabaya,5.0,8.7,3,2022-12-30,1710133,2022
+Surabaya,"Genteng, Surabaya",Garden Palace Hotel Powered by Archipelago,4.0,8.3,3,2022-12-30,691120,2022
+Surabaya,"Gubeng, Surabaya",HARRIS Hotel & Conventions Gubeng,4.0,8.7,3,2022-12-30,2821333,2022
+Surabaya,"Tegalsari, Surabaya",JW Marriott Hotel Surabaya,5.0,9.0,3,2022-12-30,2444200,2022
+Surabaya,"Sawahan, Surabaya",Hotel Ciputra World Surabaya managed by Swiss-Belhotel International,5.0,8.7,3,2022-12-30,4400000,2022
+Surabaya,"Wonokromo, Surabaya",Primebiz Hotel Surabaya,3.5,8.5,3,2022-12-30,915884,2022
+Surabaya,"Gubeng, Surabaya",The Life Styles Hotel Surabaya,3.5,8.9,3,2022-12-30,613332,2022
+Surabaya,"Genteng, Surabaya",Grand Dafam Signature Surabaya,4.0,8.8,3,2022-12-30,1595333,2022
+Surabaya,"Gedangan, Surabaya",Swiss-Belinn Airport Surabaya,3.0,8.7,3,2022-12-30,665000,2022
+Surabaya,"Sawahan, Surabaya",Holiday Inn Express SURABAYA CENTERPOINT,4.0,8.6,3,2022-12-30,749044,2022
+Surabaya,"Genteng, Surabaya",Bekizaar Hotel Surabaya,3.0,8.4,3,2022-12-30,655528,2022
+Surabaya,"Tegalsari, Surabaya",Royal Tulip Darmo Surabaya,5.0,8.7,3,2022-12-30,1293925,2022
+Surabaya,"Mulyorejo, Surabaya",Alimar Premier Hotel,3.0,8.2,3,2022-12-30,2090000,2022
+Surabaya,"Genteng, Surabaya",Hotel Aria Centra Surabaya,4.0,8.8,3,2022-12-30,1225000,2022
+Surabaya,"Mulyorejo, Surabaya",Swiss-Belinn Manyar Surabaya,3.0,8.6,3,2022-12-30,878333,2022
+Surabaya,"Genteng, Surabaya",Surabaya Suites Hotel Powered by Archipelago,4.0,8.5,3,2022-12-30,1012300,2022
+Surabaya,"Sukomanunggal, Surabaya",HARRIS Hotel & Conventions Bundaran Satelit Surabaya,4.0,8.8,3,2022-12-30,795333,2022
+Surabaya,"Waru, Surabaya",Neo+ Waru Sidoarjo by ASTON,3.0,8.4,3,2022-12-30,530400,2022
+Surabaya,"Rungkut, Surabaya",Hotel Gunawangsa MERR,3.0,8.4,3,2022-12-30,714667,2022
+Surabaya,"Sedati, Surabaya",ibis budget Surabaya Airport,2.0,8.4,3,2022-12-30,454999,2022
+Surabaya,"Pabean Cantikan, Surabaya",POP! Hotel Stasiun Kota Surabaya,2.0,8.5,3,2022-12-30,340960,2022
+Surabaya,"Wonokromo, Surabaya",POP! Hotel Diponegoro Surabaya,2.0,8.3,3,2022-12-30,388667,2022
+Surabaya,"Tenggilis Mejoyo, Surabaya",Zest Hotel Jemursari,2.0,8.4,3,2022-12-30,466666,2022
+Surabaya,"Tegalsari, Surabaya",Hotel 88 Embong Malang,3.0,8.4,3,2022-12-30,516667,2022
+Surabaya,"Genteng, Surabaya",Hotel 88 Embong Kenongo (Kayoon),2.0,8.5,3,2022-12-30,372000,2022
+Surabaya,"Sawahan, Surabaya",Prime Royal Boutique Hotel Surabaya,3.5,8.1,3,2022-12-30,463332,2022
+Surabaya,"Tegalsari, Surabaya",Hotel 88 Kedungsari (Kedungdoro),2.0,8.6,3,2022-12-30,455000,2022
+Surabaya,"Tegalsari, Surabaya",Amaris Hotel Embong Malang,2.0,8.4,3,2022-12-30,546667,2022
+Surabaya,"Genteng, Surabaya",The Life Hotels Surabaya City Center,2.5,8.3,3,2022-12-30,346666,2022
+Surabaya,"Wonocolo, Surabaya",Amaris Hotel Margorejo Surabaya,2.0,8.6,3,2022-12-30,466667,2022
+Surabaya,"Genteng, Surabaya",Goldvitel Hotel Surabaya,4.0,8.2,3,2022-12-30,1934433,2022
+Surabaya,"Gubeng, Surabaya",ZOOM Dharmahusada Hotel,3.0,8.5,3,2022-12-30,558333,2022
+Surabaya,"Tegalsari, Surabaya",Amaris Hotel Darmo - Surabaya,2.0,8.6,3,2022-12-30,453333,2022
+Surabaya,"Gedangan, Surabaya",Premier Place Surabaya Airport,3.0,8.7,3,2022-12-30,774350,2022
+Surabaya,"Genteng, Surabaya",Grand Inna Tunjungan,4.0,8.5,3,2022-12-30,1189923,2022
+Surabaya,"Mulyorejo, Surabaya",Hotel Dafam Pacific Caesar Surabaya,3.0,8.8,3,2022-12-30,800000,2022
+Surabaya,"Dukuh Pakis, Surabaya",Sumi Hotel Surabaya,2.0,8.4,3,2022-12-30,331667,2022
+Surabaya,"Gubeng, Surabaya",MaxOneHotels.com @ Dharmahusada - Surabaya,3.0,8.6,3,2022-12-30,525000,2022
+Surabaya,"Tenggilis Mejoyo, Surabaya",Yello Hotel Jemursari,3.0,8.5,3,2022-12-30,714831,2022
+Surabaya,"Genteng, Surabaya",D'Carol Hotel Surabaya,3.0,8.6,3,2022-12-30,600000,2022
+Surabaya,"Genteng, Surabaya",Life Hotel Sudirman Surabaya,3.0,8.2,3,2022-12-30,313332,2022
+Surabaya,"Wonokromo, Surabaya",Novotel Surabaya - Hotel & Suites,4.0,8.4,3,2022-12-30,1341274,2022
+Surabaya,"Gubeng, Surabaya",La Lisa Hotel Surabaya,3.5,8.6,3,2022-12-30,973333,2022
+Surabaya,"Wonokromo, Surabaya",BATIQA Hotel Darmo - Surabaya,3.0,8.6,3,2022-12-30,690000,2022
+Surabaya,"Sedati, Surabaya",Halogen Hotel Airport Surabaya,3.0,8.3,3,2022-12-30,380000,2022
+Jakarta,"Karet Semanggi, Jakarta",Aryaduta Suite Semanggi,4.0,8.5,2,2022-12-31,2800000,2022
+Jakarta,"Senayan, Jakarta",The Sultan Hotel & Residence Jakarta,5.0,8.6,2,2022-12-31,2253414,2022
+Jakarta,"Cilandak Timur, Jakarta",Aloft South Jakarta,4.0,8.9,2,2022-12-31,1458050,2022
+Jakarta,"Karet Semanggi, Jakarta",Ascott Sudirman Jakarta,5.0,8.6,2,2022-12-31,3772890,2022
+Jakarta,"Pasar Baru, Jakarta",Yuan Garden Pasar Baru,4.0,8.5,2,2022-12-31,1204000,2022
+Jakarta,"Ancol, Jakarta",Mercure Convention Center Ancol,4.0,8.4,2,2022-12-31,3614500,2022
+Jakarta,"Ancol, Jakarta",Discovery Ancol,4.0,8.2,2,2022-12-31,2675000,2022
+Jakarta,"Pasar Baru, Jakarta",Hotel Borobudur Jakarta,5.0,8.6,2,2022-12-31,2658000,2022
+Jakarta,"Petojo Utara, Jakarta",Merlynn Park Hotel,5.0,8.6,2,2022-12-31,1650000,2022
+Jakarta,"Ragunan, Jakarta",Arimbi Pejaten Suites,3.0,7.9,2,2022-12-31,437000,2022
+Jakarta,"Senayan, Jakarta","The Langham, Jakarta",5.0,8.8,2,2022-12-31,8006146,2022
+Jakarta,"Senayan, Jakarta","Hotel Mulia Senayan, Jakarta",5.0,8.7,2,2022-12-31,5566000,2022
+Jakarta,"Thamrin, Jakarta",Grand Hyatt Jakarta,5.0,8.7,2,2022-12-31,8986458,2022
+Jakarta,"Kebagusan, Jakarta",ASTON Priority Simatupang & Conference Center,4.0,8.6,2,2022-12-31,1425380,2022
+Jakarta,"Slipi, Jakarta",Hotel Menara Peninsula,4.0,8.4,2,2022-12-31,1025000,2022
+Jakarta,"Kuningan, Jakarta",The St. Regis Jakarta,5.0,8.4,2,2022-12-31,8772500,2022
+Jakarta,"Pasar Baru, Jakarta",Yuan Garden Pasar Baru,4.0,8.5,2,2022-12-31,1204000,2022
+Jakarta,"Cikini, Jakarta",DoubleTree by Hilton Jakarta - Diponegoro,5.0,8.8,2,2022-12-31,2932584,2022
+Jakarta,"Tanjung Duren, Jakarta",Hotel Ciputra Jakarta managed by Swiss-Belhotel International,4.0,8.5,2,2022-12-31,1492000,2022
+Jakarta,"Senayan, Jakarta",Century Park Hotel,4.0,8.6,2,2022-12-31,2435000,2022
+Jakarta,"Sudirman, Jakarta",Le Meridien Jakarta,5.0,8.7,2,2022-12-31,2631750,2022
+Jakarta,"Senen, Jakarta",Lumire Hotel & Convention Center,4.0,8.5,2,2022-12-31,1075000,2022
+Jakarta,"Cawang, Jakarta",Best Western Premier The Hive,5.0,8.4,2,2022-12-31,1300000,2022
+Jakarta,"Tanah Abang, Jakarta",Millennium Hotel Sirih Jakarta,4.0,8.6,2,2022-12-31,1277155,2022
+Jakarta,"Menteng, Jakarta",Ashley Tang Menteng,4.0,8.7,2,2022-12-31,1680888,2022
+Jakarta,"Pondok Indah, Jakarta",InterContinental Hotels JAKARTA PONDOK INDAH,5.0,8.9,2,2022-12-31,5722320,2022
+Jakarta,"Tanjung Duren, Jakarta",Pullman Jakarta Central Park,5.0,8.5,2,2022-12-31,3615480,2022
+Jakarta,"Rasuna Said, Jakarta",Royal Kuningan Hotel,4.0,8.5,2,2022-12-31,3078189,2022
+Jakarta,"Rasuna Said, Jakarta",Manhattan Hotel Jakarta,5.0,8.3,2,2022-12-31,2162500,2022
+Jakarta,"Cawang, Jakarta",Teraskita Hotel Jakarta managed by Dafam,4.0,8.6,2,2022-12-31,2160000,2022
+Jakarta,"Tanjung Duren, Jakarta",Grand Tropic Suites Hotel,4.0,8.0,2,2022-12-31,1335000,2022
+Jakarta,"Menteng, Jakarta","The Hermitage, a Tribute Portfolio Hotel, Jakarta",5.0,8.9,2,2022-12-31,4996695,2022
+Jakarta,"Pluit, Jakarta",Hariston Hotel & Suites,4.0,8.4,2,2022-12-31,1428500,2022
+Jakarta,"Tanah Abang, Jakarta",Ashley Tanah Abang,0.0,8.9,2,2022-12-31,1940888,2022
+Jakarta,"Pondok Indah, Jakarta",Swiss-Belhotel Pondok Indah,4.0,8.5,2,2022-12-31,1440000,2022
+Jakarta,"Lebak Bulus, Jakarta",Swiss-Belinn Simatupang Jakarta,3.0,8.5,2,2022-12-31,1075000,2022
+Jakarta,"Slipi, Jakarta",Hotel Santika Premiere Slipi Jakarta,4.0,8.6,2,2022-12-31,1425000,2022
+Jakarta,"Kuningan, Jakarta",Gran Melia Jakarta,5.0,8.8,2,2022-12-31,2646875,2022
+Jakarta,"Kebon Kacang, Jakarta",Holiday Inn Express JAKARTA WAHID HASYIM,3.0,8.6,2,2022-12-31,1935790,2022
+Jakarta,"Kebon Sirih, Jakarta",Aloft Jakarta Wahid Hasyim,4.0,8.8,2,2022-12-31,1863400,2022
+Jakarta,"Kebayoran Lama Utara, Jakarta",Sheraton Grand Jakarta Gandaria City Hotel,5.0,8.9,2,2022-12-31,3563450,2022
+Jakarta,"Ancol, Jakarta",Grand Dafam Ancol Jakarta,4.0,8.4,2,2022-12-31,2100000,2022
+Jakarta,"Senayan, Jakarta",Fairmont Jakarta,5.0,8.9,2,2022-12-31,6534000,2022
+Jakarta,"Pluit, Jakarta",ASTON Pluit Hotel & Residence,4.0,8.3,2,2022-12-31,1169905,2022
+Jakarta,"Pecenongan, Jakarta",Redtop Hotel & Convention Center,4.0,8.5,2,2022-12-31,1330726,2022
+Jakarta,"Kuningan, Jakarta","The Ritz-Carlton Jakarta, Mega Kuningan",5.0,8.8,2,2022-12-31,3388000,2022
+Jakarta,"Manggarai Selatan, Jakarta",Harris Tebet Jakarta,4.0,8.5,2,2022-12-31,1047000,2022
+Jakarta,"Senen, Jakarta",Hotel Gren Alia Jakarta,3.0,8.7,2,2022-12-31,862500,2022
+Jakarta,"Karet Tengsin, Jakarta",Shangri-La Jakarta,5.0,8.9,2,2022-12-31,5320178,2022
+Jakarta,"Kebon Kacang, Jakarta",Swiss-Belinn Wahid Hasyim,3.0,8.4,2,2022-12-31,1365000,2022
+Jakarta,"Pluit, Jakarta",Holiday Inn Express JAKARTA PLUIT CITYGATE,3.0,8.4,2,2022-12-31,1118338,2022
+Jakarta,"Lebak Bulus, Jakarta",Grand Whiz Poins Simatupang Jakarta,4.0,8.6,2,2022-12-31,971875,2022
+Jakarta,"Harmoni, Jakarta",Harris Vertu Hotel Harmoni,5.0,8.6,2,2022-12-31,1601050,2022
+Jakarta,"Kalibata, Jakarta",Swiss-Belresidences Kalibata,4.0,8.6,2,2022-12-31,992500,2022
+Jakarta,"Grogol, Jakarta",ASTON Kartika Grogol Hotel & Conference Center,4.0,8.6,2,2022-12-31,2099190,2022
+Jakarta,"Gunung Sahari, Jakarta",Grand Mercure Jakarta Kemayoran,5.0,8.7,2,2022-12-31,1764180,2022
+Jakarta,"Cawang, Jakarta",Sentral Cawang Hotel,3.0,8.4,2,2022-12-31,633000,2022
+Jakarta,"Melawai, Jakarta",Ambhara Hotel,4.0,8.3,2,2022-12-31,1088000,2022
+Jakarta,"Thamrin, Jakarta",Mandarin Oriental Jakarta,5.0,9.0,2,2022-12-31,8518400,2022
+Jakarta,"Melawai, Jakarta",Hotel Dharmein,3.0,8.5,2,2022-12-31,625000,2022
+Jakarta,"Kemayoran, Jakarta",Swiss-Belinn Kemayoran,3.0,8.4,2,2022-12-31,822500,2022
+Jakarta,"Tanjung Duren, Jakarta",Grand Tjokro Jakarta,4.0,8.3,2,2022-12-31,1083333,2022
+Jakarta,"Harmoni, Jakarta",Grand Mercure Jakarta Harmoni,5.0,8.6,2,2022-12-31,1446585,2022
+Bandung,"Merdeka, Bandung",eL Hotel Royale Bandung,4.0,8.7,2,2022-12-31,1273750,2022
+Bandung,"Cihampelas, Bandung",Grand Tjokro Premiere Bandung,4.0,8.5,2,2022-12-31,1682778,2022
+Bandung,"Dago, Bandung",Four Points by Sheraton Bandung,4.0,8.8,2,2022-12-31,2256650,2022
+Bandung,"Merdeka, Bandung",Aryaduta Bandung,4.0,8.7,2,2022-12-31,2022778,2022
+Bandung,"Pasirkaliki, Bandung",Hilton Bandung,5.0,8.8,2,2022-12-31,3388000,2022
+Bandung,"Mekarsaluyu, Bandung",InterContinental Hotels BANDUNG DAGO PAKAR,5.0,8.8,2,2022-12-31,4927658,2022
+Bandung,"Pasteur, Bandung",Holiday Inn BANDUNG PASTEUR,4.0,8.6,2,2022-12-31,1645633,2022
+Bandung,"Dago, Bandung",Moxy Bandung,3.0,8.7,2,2022-12-31,1418726,2022
+Bandung,"Buahbatu, Bandung",ibis Bandung Trans Studio,3.0,8.4,2,2022-12-31,1070000,2022
+Bandung,"Jatinangor, Bandung",Easton Park Apartment Jatinangor by Diajeng,0.0,7.5,2,2022-12-31,281500,2022
+Bandung,"Dago, Bandung",Clove Garden Hotel & Residence,4.0,8.2,2,2022-12-31,1264150,2022
+Bandung,"Sumurbandung, Bandung",Crowne Plaza BANDUNG,5.0,8.7,2,2022-12-31,2388060,2022
+Bandung,"Setiabudi, Bandung",Kytos Hotel,3.0,8.4,2,2022-12-31,1050000,2022
+Bandung,"Mekarsaluyu, Bandung",Dago Heuvel Resort and Villa,2.0,8.4,2,2022-12-31,3968800,2022
+Bandung,"Lengkong, Bandung",The Papandayan Hotel,5.0,8.8,2,2022-12-31,3020819,2022
+Bandung,"Dago Atas, Bandung",Swiss-Belresort Dago Heritage Bandung,4.0,8.6,2,2022-12-31,3583950,2022
+Bandung,"Dago, Bandung",Four Points by Sheraton Bandung,4.0,8.8,2,2022-12-31,2256650,2022
+Bandung,"Dago Atas, Bandung",Sheraton Bandung Hotel & Towers,5.0,8.7,2,2022-12-31,3206500,2022
+Bandung,"Dago, Bandung",THE 1O1 Bandung Dago,4.0,8.6,2,2022-12-31,1910000,2022
+Bandung,"Batununggal, Bandung",The Suites Metro by Desta Faris,0.0,7.5,2,2022-12-31,647000,2022
+Bandung,"Merdeka, Bandung",Janévalla Bandung,4.0,8.8,2,2022-12-31,2527778,2022
+Bandung,"Dago, Bandung",The Luxton Bandung,4.0,8.5,2,2022-12-31,1736550,2022
+Bandung,"Braga, Bandung",Grand Hotel Preanger,5.0,8.6,2,2022-12-31,2125000,2022
+Bandung,"Cihampelas, Bandung",Grandia Hotel Bandung,4.0,8.6,2,2022-12-31,2270400,2022
+Bandung,"Pasteur, Bandung",V Hotel & Residence,3.0,8.4,2,2022-12-31,699000,2022
+Bandung,"Asia Afrika, Bandung",Maison Teraskita Bandung,4.0,8.7,2,2022-12-31,3825000,2022
+Bandung,"Dago, Bandung","Courtyard by Marriott Bandung Dago, CHSE Certified",4.0,8.6,2,2022-12-31,2268750,2022
+Bandung,"Jalan Riau, Bandung",Serela Riau by KAGUM Hotels,3.0,8.0,2,2022-12-31,1225000,2022
+Bandung,"Lengkong, Bandung",Horison Ultima Bandung,4.0,8.0,2,2022-12-31,1251000,2022
+Bandung,"Batununggal, Bandung",Nine Inn by Edotel Dbest,2.0,7.6,2,2022-12-31,1148125,2022
+Bandung,"Gedebage, Bandung",Shakti Hotel Bandung,4.0,8.5,2,2022-12-31,1085000,2022
+Bandung,"Setiabudi, Bandung",Banana Inn by KAGUM Hotels,4.0,8.4,2,2022-12-31,1111500,2022
+Bandung,"Setiabudi, Bandung",Grand Serela Setiabudhi by KAGUM Hotels,4.0,8.0,2,2022-12-31,1001000,2022
+Bandung,"Sukajadi, Bandung",d'primahotel Bandung,3.0,8.4,2,2022-12-31,4160000,2022
+Bandung,"Pasir Koja, Bandung",Harris Hotel & Conventions Festival Citilink Bandung,4.0,8.4,2,2022-12-31,1199000,2022
+Bandung,"Dago, Bandung",Serela Merdeka by KAGUM Hotels,3.0,8.3,2,2022-12-31,857628,2022
+Bandung,"Asia Afrika, Bandung",Mercure Bandung City Centre,4.0,8.5,2,2022-12-31,1714998,2022
+Bandung,"Pamekaran, Bandung",Grand Sunshine Resort and Convention,4.0,8.7,2,2022-12-31,1350000,2022
+Bandung,"Pasirkaliki, Bandung",Atlantic City Hotel,3.0,8.5,2,2022-12-31,710000,2022
+Bandung,"Pasir Koja, Bandung",POP! Hotel Festival Citylink - Bandung,2.0,8.2,2,2022-12-31,549000,2022
+Bandung,"Jalan Riau, Bandung",Amaroossa Bandung,4.0,8.2,2,2022-12-31,2123656,2022
+Bandung,"Pasteur, Bandung",ibis Bandung Pasteur,3.0,8.5,2,2022-12-31,974986,2022
+Bandung,"Cihampelas, Bandung",Sensa Hotel Bandung,4.0,8.6,2,2022-12-31,1738000,2022
+Bandung,"Jalan Riau, Bandung",De Paviljoen Bandung,4.0,8.8,2,2022-12-31,1968750,2022
+Bandung,"Sukajadi, Bandung","Sukajadi Hotel, Convention and Gallery",3.0,8.1,2,2022-12-31,735500,2022
+Bandung,"Sukajadi, Bandung",Zest Hotel Sukajadi Bandung,3.0,8.7,2,2022-12-31,843000,2022
+Bandung,"Setiabudi, Bandung",Cinnamon Hotel Boutique Syariah,4.0,9.0,2,2022-12-31,2783158,2022
+Bandung,"Pasirkaliki, Bandung",Serela Waringin by KAGUM Hotels,3.0,8.0,2,2022-12-31,925135,2022
+Bandung,"Setiabudi, Bandung",Hemangini Hotel Bandung,4.0,8.5,2,2022-12-31,1472223,2022
+Bandung,"Pasteur, Bandung",Sari Ater Kamboti Hotel Bandung,4.0,8.3,2,2022-12-31,1111470,2022
+Bandung,"Jalan Riau, Bandung",Hotel Dafam Rio,3.0,8.6,2,2022-12-31,836841,2022
+Bandung,"Sumurbandung, Bandung",Kedaton Hotel,3.0,8.4,2,2022-12-31,833333,2022
+Bandung,"Dago, Bandung",Moxy Bandung,3.0,8.7,2,2022-12-31,1418726,2022
+Medan,"Pusat Kota Medan, Medan",Cambridge Hotel Medan,5.0,8.5,2,2022-12-31,2500000,2022
+Medan,"Pusat Kota Medan, Medan",JW Marriott Hotel Medan,5.0,8.7,2,2022-12-31,2744281,2022
+Medan,"Medan Sunggal, Medan",Saka Hotel Medan,3.0,7.7,2,2022-12-31,575000,2022
+Medan,"Medan Baru, Medan",Hotel Anaya,0.0,6.9,2,2022-12-31,350000,2022
+Medan,"Beringin, Medan",Horison Sky Kualanamu,3.0,8.5,2,2022-12-31,632756,2022
+Medan,"Batang Kuis, Medan",Prime Plaza Hotel Kualanamu,4.0,8.6,2,2022-12-31,1209600,2022
+Medan,"Pusat Kota Medan, Medan",Cordex Hotel Medan,0.0,8.6,2,2022-12-31,425000,2022
+Medan,"Percut Sei Tuan, Medan",Miyanna Hotel,3.0,7.9,2,2022-12-31,464100,2022
+Medan,"Tanjung Morawa, Medan",OYO 2361 Hotel Winston,2.0,7.2,2,2022-12-31,148119,2022
+Medan,"Pusat Kota Medan, Medan",SELECTA HOTEL,4.0,8.2,2,2022-12-31,785001,2022
+Medan,"Medan Petisah, Medan",Grand Kanaya Hotel,3.0,8.1,2,2022-12-31,685000,2022
+Medan,"Tanjung Morawa, Medan",CREW EXPRESS Hotel,3.0,8.3,2,2022-12-31,275000,2022
+Medan,"Pusat Kota Medan, Medan",Hotel Antares,3.0,7.9,2,2022-12-31,379000,2022
+Medan,"Medan Petisah, Medan",Swasana Hotel Medan,3.0,8.4,2,2022-12-31,700000,2022
+Medan,"Medan Helvetia, Medan",Cordela Inn Millenium Medan,2.0,8.4,2,2022-12-31,395000,2022
+Medan,"Medan Petisah, Medan",Alpha Inn Medan,3.0,7.7,2,2022-12-31,377444,2022
+Medan,"Pusat Kota Medan, Medan",Cordela Hotel Medan,2.0,8.4,2,2022-12-31,624000,2022
+Medan,"Medan Polonia, Medan",Pardede International Hotel Medan,3.0,7.7,2,2022-12-31,461250,2022
+Medan,"Pusat Kota Medan, Medan",Wisma Sederhana Budget Hotel,0.0,8.3,2,2022-12-31,297500,2022
+Medan,"Medan Maimun, Medan",Hotel Menara Lexus,0.0,7.7,2,2022-12-31,310000,2022
+Medan,"Medan Tembung, Medan",NIVIA HOTEL,3.0,8.8,2,2022-12-31,360000,2022
+Medan,"Batang Kuis, Medan",Lively Hotel Kualanamu Airport Medan,2.0,8.0,2,2022-12-31,199999,2022
+Medan,"Pusat Kota Medan, Medan",OYO 2345 Homestay Jaya,1.0,7.0,2,2022-12-31,96866,2022
+Medan,"Tanjung Morawa, Medan",Hotel Aero,2.0,7.9,2,2022-12-31,190235,2022
+Medan,"Medan Petisah, Medan",OYO 90565 Wesly House,1.0,8.0,2,2022-12-31,173292,2022
+Medan,"Pusat Kota Medan, Medan",Amaliun Hotel,2.0,8.1,2,2022-12-31,260235,2022
+Medan,"Medan Baru, Medan",Odua Golden Mansyur Medan,0.0,8.4,2,2022-12-31,270750,2022
+Medan,"Medan Helvetia, Medan",OYO 90457 Anara Residence & Guest House,2.0,8.4,2,2022-12-31,174278,2022
+Medan,"Pusat Kota Medan, Medan",OYO 1457 Tmj Guest House,1.5,7.9,2,2022-12-31,159750,2022
+Medan,"Medan Petisah, Medan",Putra Mulia Hotel,3.0,7.8,2,2022-12-31,499000,2022
+Medan,"Medan Area, Medan",Alam Hotel by Cordela,3.0,8.4,2,2022-12-31,413500,2022
+Medan,"Medan Sunggal, Medan",OYO 2574 Z Suites Hotel,2.0,7.3,2,2022-12-31,141274,2022
+Medan,"Medan Baru, Medan",Hotel Anaya,0.0,6.9,2,2022-12-31,350000,2022
+Medan,"Pusat Kota Medan, Medan",OYO 456 Aljadid Guest House Syariah,2.0,8.4,2,2022-12-31,244020,2022
+Medan,"Pusat Kota Medan, Medan",Kanasha Hotel,1.0,8.8,2,2022-12-31,317500,2022
+Medan,"Medan Selayang, Medan",OYO 1400 Barat Residence Syariah,1.5,7.6,2,2022-12-31,143908,2022
+Medan,"Medan Petisah, Medan",OYO 90447 Kardopa Hotel Megapark,1.0,8.1,2,2022-12-31,805390,2022
+Medan,"Medan Selayang, Medan",Huber Apartment,2.0,7.8,2,2022-12-31,398000,2022
+Medan,"Batang Kuis, Medan",My Studio Hotel Kualanamu Airport Medan,1.0,8.3,2,2022-12-31,69999,2022
+Medan,"Medan Baru, Medan",OYO 1183 Papakoel,1.0,8.1,2,2022-12-31,146680,2022
+Medan,"Pusat Kota Medan, Medan",Vivo Stay,2.0,7.6,2,2022-12-31,299013,2022
+Medan,"Medan Sunggal, Medan",OYO 873 Kamani Homestay Syariah,1.0,8.3,2,2022-12-31,276165,2022
+Medan,"Medan Tembung, Medan",OYO 359 Executive Inn,1.0,8.1,2,2022-12-31,149926,2022
+Denpasar,"Denpasar Barat, Denpasar",Adi Pelita Sari,0.0,8.6,2,2022-12-31,455050,2022
+Banda Aceh,"Ulee Kareng, Banda Aceh",Hermes Palace by BENCOOLEN,5.0,8.4,2,2022-12-31,1058000,2022
+Banda Aceh,"Baiturrahman, Banda Aceh",Hip Hope Hotel,2.0,8.7,2,2022-12-31,510000,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Kyriad Hotel Muraya Aceh,4.0,8.6,2,2022-12-31,945000,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Arabia Hotel,3.0,8.0,2,2022-12-31,300000,2022
+Banda Aceh,"Banda Raya, Banda Aceh",The Pade Hotel,3.0,8.5,2,2022-12-31,870148,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Ayani Hotel Banda Aceh,3.0,8.5,2,2022-12-31,602869,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel Medan Banda Aceh,0.0,8.4,2,2022-12-31,385000,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",SPOT ON 2134 Seunia Hotel,1.0,8.0,2,2022-12-31,145078,2022
+Banda Aceh,"Meuraksa, Banda Aceh",Grand Arabia Hotel,3.0,8.5,2,2022-12-31,837500,2022
+Banda Aceh,"Baiturrahman, Banda Aceh",Plum Hotel Lading Banda Aceh,3.0,8.1,2,2022-12-31,300000,2022
+Banda Aceh,"Banda Raya, Banda Aceh",Hotel Rasamala,3.0,8.3,2,2022-12-31,539000,2022
+Banda Aceh,"Meuraksa, Banda Aceh",Hotel Amel & Convention Hall,3.0,8.2,2,2022-12-31,375000,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",OYO 854 Ub Caisar Hotel,2.0,7.0,2,2022-12-31,192733,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel Mekkah,3.0,7.6,2,2022-12-31,440000,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",MyHome Hotel Aceh,0.0,8.5,2,2022-12-31,350000,2022
+Banda Aceh,"Ulee Kareng, Banda Aceh",Kumala Hotel Banda Aceh,2.0,8.5,2,2022-12-31,590000,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Grand Nanggroe Hotel,3.0,7.5,2,2022-12-31,689024,2022
+Banda Aceh,"Baiturrahman, Banda Aceh",Seventeen Hotel,3.0,8.5,2,2022-12-31,572290,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel 61 Banda Aceh,2.0,7.7,2,2022-12-31,352942,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",Mita Mulia Hotel,0.0,8.4,2,2022-12-31,300000,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Oasis Atjeh Hotel,3.0,8.2,2,2022-12-31,540000,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Al-Hanifi Hotel,0.0,8.4,2,2022-12-31,450000,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Capital O 2018 Ring Road Guest House Syariah,2.0,8.0,2,2022-12-31,235223,2022
+Banda Aceh,"Syiah Kuala, Banda Aceh",SPOT ON 2134 Seunia Hotel,1.0,8.0,2,2022-12-31,145078,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",My Home Aceh,0.0,8.4,2,2022-12-31,279999,2022
+Banda Aceh,"Lueng Bata, Banda Aceh",Capital O 1630 Hotel Syariah Ring Road,1.5,7.8,2,2022-12-31,317549,2022
+Banda Aceh,"Kuta Alam, Banda Aceh",Hotel Madinah,2.0,6.9,2,2022-12-31,357375,2022
+Banda Aceh,"Banda Raya, Banda Aceh",Hozby Family Suites,0.0,8.4,2,2022-12-31,680000,2022
+Padang,"Padang Selatan, Padang",The ZHM Premiere (d/h Grand Zuri) Padang,4.0,8.6,2,2022-12-31,1121000,2022
+Padang,"Padang Barat, Padang",Truntum Padang Hotel,4.0,8.6,2,2022-12-31,1024028,2022
+Padang,"Padang Utara, Padang",Pangeran Beach Hotel,4.0,8.3,2,2022-12-31,1050000,2022
+Padang,"Padang Barat, Padang",Rocky Plaza Hotel Padang,4.0,8.3,2,2022-12-31,1046088,2022
+Padang,"Padang Barat, Padang",Mercure Padang,4.0,8.4,2,2022-12-31,1267002,2022
+Padang,"Padang Barat, Padang",Ocean Beach Hotel,3.5,8.4,2,2022-12-31,2205000,2022
+Padang,"Padang Barat, Padang",Rocky Plaza Hotel Padang,4.0,8.3,2,2022-12-31,1046088,2022
+Padang,"Padang Barat, Padang",The Axana Hotel,4.0,8.0,2,2022-12-31,1023444,2022
+Padang,"Padang Barat, Padang",The Axana Hotel,4.0,8.0,2,2022-12-31,1023444,2022
+Padang,"Padang Barat, Padang",Kyriad Bumiminang Hotel Padang,4.0,8.0,2,2022-12-31,1003000,2022
+Padang,"Padang Barat, Padang",favehotel Olo Padang,3.0,8.1,2,2022-12-31,1593200,2022
+Padang,"Padang Barat, Padang",HW Hotel Padang,3.5,8.2,2,2022-12-31,775000,2022
+Padang,"Padang Barat, Padang",Deivan Hotel,2.0,8.3,2,2022-12-31,600000,2022
+Padang,"Pauh, Padang",Imelda Hotel - Water Park - Convention,4.0,8.0,2,2022-12-31,508000,2022
+Padang,"Padang Timur, Padang",OYO 3092 Falah Residence Syariah,1.0,8.5,2,2022-12-31,183718,2022
+Padang,"Padang Barat, Padang",Hotel Savali,3.0,8.1,2,2022-12-31,766078,2022
+Padang,"Padang Utara, Padang",UNP Hotel & Convention Center,3.0,8.3,2,2022-12-31,522350,2022
+Padang,"Padang Timur, Padang",OYO 4010 Zaara Guest House Syariah,1.0,7.3,2,2022-12-31,291209,2022
+Padang,"Padang Barat, Padang",Nagari Koto Gadang,0.0,8.9,2,2022-12-31,350000,2022
+Padang,"Nanggalo, Padang",New d'Dhave Hotel,2.5,8.1,2,2022-12-31,775000,2022
+Padang,"Padang Utara, Padang",OYO 3305 Bumi Siliwangi Residence,1.0,7.7,2,2022-12-31,317846,2022
+Padang,"Padang Barat, Padang",Fazarel Residence Syariah,2.0,8.3,2,2022-12-31,525000,2022
+Padang,"Padang Barat, Padang",d'Dhave hotel,0.0,7.7,2,2022-12-31,496250,2022
+Padang,"Padang Utara, Padang",TANAHOTEL PADANG,2.0,8.4,2,2022-12-31,783133,2022
+Padang,"Padang Selatan, Padang",Kinol Homestay,1.0,7.6,2,2022-12-31,90000,2022
+Padang,"Lubuk Begalung, Padang",Palanta Roemah Kajoe Syariah,0.0,7.9,2,2022-12-31,300000,2022
+Padang,"Padang Barat, Padang",OYO 1673 M Authentic Kost Man,2.0,7.4,2,2022-12-31,172558,2022
+Padang,"Padang Utara, Padang",OYO 91675 Utama Residence,0.0,8.4,2,2022-12-31,545583,2022
+Padang,"Padang Utara, Padang",Kelapa Gading Guesthouse II,0.0,7.9,2,2022-12-31,325000,2022
+Padang,"Padang Selatan, Padang",Jesnic Hotel,1.0,7.8,2,2022-12-31,550000,2022
+Padang,"Nanggalo, Padang",TEE HOTEL,0.0,8.3,2,2022-12-31,350000,2022
+Padang,"Lubuk Begalung, Padang",Wisma Ayank,1.0,8.6,2,2022-12-31,209000,2022
+Padang,"Padang Timur, Padang",OYO 4010 Zaara Guest House Syariah,1.0,7.3,2,2022-12-31,291209,2022
+Padang,"Padang Utara, Padang",Wisma Tatar Pasundan,0.0,8.1,2,2022-12-31,241500,2022
+Padang,"Padang Utara, Padang",Fafan Budget Hotel Syariah,0.0,7.7,2,2022-12-31,200000,2022
+Padang,"Padang Timur, Padang",HOTEL RUMAH RB,0.0,6.6,2,2022-12-31,500000,2022
+Padang,"Padang Barat, Padang",Hotel Bintang Padang,1.0,7.7,2,2022-12-31,450000,2022
+Padang,"Padang Barat, Padang",Lestari Guesthouse,0.0,8.4,2,2022-12-31,337056,2022
+Padang,"Padang Barat, Padang",Wisma Rumah KIta,1.5,8.4,2,2022-12-31,287717,2022
+Padang,"Padang Timur, Padang",Rumah Tamu Agung,0.0,8.4,2,2022-12-31,169999,2022
+Palembang,"Plaju, Palembang",Wyndham Opi Hotel Palembang,5.0,8.5,2,2022-12-31,2029500,2022
+Palembang,"Ilir Timur I, Palembang",Beston Hotel Palembang (FKA Horison Ultima Palembang),4.0,8.5,2,2022-12-31,1303372,2022
+Palembang,"Ilir Timur II, Palembang",The Alts Hotel,4.0,8.6,2,2022-12-31,1605555,2022
+Palembang,"Ilir Timur II, Palembang",ASTON Palembang Hotel & Conference Center,4.0,8.5,2,2022-12-31,1664900,2022
+Palembang,"Ilir Timur I, Palembang",All Nite & Day Palembang - Veteran,3.0,8.6,2,2022-12-31,797250,2022
+Palembang,"Ilir Timur II, Palembang",MaxOneHotels.com @ Vivo Palembang,3.0,8.2,2,2022-12-31,578948,2022
+Palembang,"Bukit Kecil, Palembang",The Zuri Palembang,4.0,8.6,2,2022-12-31,5333333,2022
+Palembang,"Ilir Timur II, Palembang",OYO 236 Penginapan Rumah Hijau,1.0,7.6,2,2022-12-31,210810,2022
+Palembang,"Ilir Barat I, Palembang",BATIQA Hotel Palembang,3.5,8.5,2,2022-12-31,955000,2022
+Palembang,"Ilir Timur II, Palembang",favehotel Palembang,3.0,8.4,2,2022-12-31,794600,2022
+Palembang,"Ilir Timur II, Palembang",Harper Palembang by ASTON,4.0,8.4,2,2022-12-31,1394746,2022
+Palembang,"Bukit Kecil, Palembang",Hotel Santika Radial Palembang,3.0,8.5,2,2022-12-31,1175000,2022
+Palembang,"Ilir Barat I, Palembang",The Excelton Hotel,5.0,8.5,2,2022-12-31,1400000,2022
+Palembang,"Ilir Timur II, Palembang",Algoritma Hotel Palembang,3.0,8.4,2,2022-12-31,615555,2022
+Palembang,"Ilir Timur II, Palembang",The 1O1 Palembang Rajawali,4.0,8.6,2,2022-12-31,1159500,2022
+Palembang,"Ilir Timur I, Palembang",Ayola Sentosa Palembang,3.0,8.5,2,2022-12-31,620766,2022
+Palembang,"Bukit Kecil, Palembang",Emilia Hotel By Amazing - Palembang,3.0,8.6,2,2022-12-31,950000,2022
+Palembang,"Ilir Timur I, Palembang",Luminor Hotel Palembang,3.0,8.2,2,2022-12-31,900000,2022
+Palembang,"Ilir Timur II, Palembang",Opa Hotel Palembang,4.0,8.3,2,2022-12-31,685000,2022
+Palembang,"Alang-Alang Lebar, Palembang",Rid's Hotel Palembang,3.0,8.8,2,2022-12-31,431500,2022
+Palembang,"Ilir Timur II, Palembang",Cordela Inn R. Sukamto Palembang,2.0,8.5,2,2022-12-31,480000,2022
+Palembang,"Ilir Timur II, Palembang",Sintesa Peninsula Hotel Palembang,4.0,8.2,2,2022-12-31,624500,2022
+Palembang,"Ilir Timur II, Palembang",Rio City Hotel,3.0,7.9,2,2022-12-31,632500,2022
+Palembang,"Ilir Timur II, Palembang",Hotel Harvani,2.0,8.1,2,2022-12-31,435000,2022
+Palembang,"Ilir Barat I, Palembang",Barong Hotel,1.0,8.1,2,2022-12-31,375000,2022
+Palembang,"Seberang Ulu I, Palembang",Bina Darma Hotel Palembang,2.0,8.1,2,2022-12-31,215000,2022
+Palembang,"Ilir Timur II, Palembang",OYO 142 Hotel Al Furqon Syariah,2.0,8.4,2,2022-12-31,153250,2022
+Palembang,"Ilir Barat I, Palembang",The Emerald Inn,1.5,8.3,2,2022-12-31,350000,2022
+Palembang,"Ilir Timur I, Palembang",Denata B&B,2.0,8.5,2,2022-12-31,333000,2022
+Palembang,"Ilir Timur I, Palembang",Cemerlang Inn,0.0,8.0,2,2022-12-31,315873,2022
+Palembang,"Ilir Timur II, Palembang",Alpha Family Kostel,2.0,8.2,2,2022-12-31,289900,2022
+Palembang,"Ilir Timur II, Palembang",Homestay 82 Syariah Palembang,2.0,8.4,2,2022-12-31,316508,2022
+Palembang,"Bukit Kecil, Palembang",Radial Mas,1.0,8.0,2,2022-12-31,147060,2022
+Palembang,"Ilir Timur I, Palembang",U_xpress Hotel,0.0,8.3,2,2022-12-31,305000,2022
+Palembang,"Sukarame, Palembang",Hotel Alam Sutra,2.0,8.2,2,2022-12-31,350000,2022
+Palembang,"Sukarame, Palembang",OYO 3431 Alpha Hotel Syariah,1.0,8.2,2,2022-12-31,170614,2022
+Palembang,"Ilir Timur I, Palembang",Circle One,0.0,8.4,2,2022-12-31,335000,2022
+Palembang,"Sukarame, Palembang",Desilva Bandara,2.0,8.3,2,2022-12-31,180000,2022
+Palembang,"Ilir Timur I, Palembang",OYO 1389 Hotel Carissima,1.0,7.6,2,2022-12-31,157994,2022
+Palembang,"Ilir Timur II, Palembang",OYO 90226 Penginapan Sederhana Syariah,1.0,8.5,2,2022-12-31,110734,2022
+Palembang,"Sukarame, Palembang",roriz house palembang,0.0,8.4,2,2022-12-31,310000,2022
+Palembang,"Ilir Timur II, Palembang",Wisma Cendana Syariah,0.0,8.7,2,2022-12-31,145000,2022
+Palembang,"Ilir Timur II, Palembang",Collection O 90428 Remington Hotel,0.0,8.5,2,2022-12-31,272108,2022
+Palembang,"Ilir Barat I, Palembang",D'Paragon Dwikora,0.0,7.8,2,2022-12-31,550000,2022
+Palembang,"Ilir Timur II, Palembang",OYO 1868 Penginapan Sekip,0.0,7.8,2,2022-12-31,154435,2022
+Palembang,"Ilir Barat I, Palembang",OYO 2177 Trikora Indah Residence Palembang,1.0,7.3,2,2022-12-31,130674,2022
+Palembang,"Sukarame, Palembang",OYO 91680 Hotel Mentari,0.0,8.4,2,2022-12-31,119526,2022
+Palembang,"Plaju, Palembang",Hotel Grand Putri Sriwijaya Syariah,0.0,8.4,2,2022-12-31,305000,2022
+Palembang,"Ilir Barat I, Palembang",D'Paragon Trikora,0.0,8.0,2,2022-12-31,540000,2022
+Palembang,"Ilir Timur I, Palembang",OYO 90412 My Kost,0.0,7.1,2,2022-12-31,157850,2022
+Palembang,"Sukarame, Palembang",Green Guesthouse,0.0,8.5,2,2022-12-31,135000,2022
+Palembang,"Ilir Barat I, Palembang",OYO 91160 Wisma Srijaya Syariah,1.5,7.6,2,2022-12-31,58670,2022
+Palembang,"Ilir Timur I, Palembang",OYO 91805 Hotel Wisma Bari,0.0,8.4,2,2022-12-31,183393,2022
+Bogor,"Sentul, Bogor",Lorin Sentul Hotel,4.0,7.9,2,2022-12-31,1224500,2022
+Bogor,"Sentul, Bogor",ASTON Sentul Lake Resort & Conference Center,4.0,8.5,2,2022-12-31,3372422,2022
+Bogor,"Padjajaran, Bogor",Grand Savero Hotel Bogor,4.0,8.5,2,2022-12-31,1581500,2022
+Bogor,"Bogor Selatan, Bogor",R Hotel Rancamaya,4.0,8.8,2,2022-12-31,2699400,2022
+Bogor,"Ciawi, Bogor",Horison Ultima Bhuvana Ciawi,4.0,8.5,2,2022-12-31,2900000,2022
+Bogor,"Bogor Raya, Bogor",Novotel Bogor Golf Resort & Convention Center,5.0,8.4,2,2022-12-31,3092148,2022
+Bogor,"Bogor Raya, Bogor",ibis Styles Bogor Raya,4.0,8.8,2,2022-12-31,1108998,2022
+Bogor,"Sentul, Bogor",Lorin Sentul Hotel,4.0,7.9,2,2022-12-31,1224500,2022
+Bogor,"Jalan Suryakencana, Bogor",THE 1O1 Bogor Suryakancana,4.0,8.7,2,2022-12-31,1724000,2022
+Bogor,"Padjajaran, Bogor",Savero Style Bogor,2.0,8.5,2,2022-12-31,950000,2022
+Bogor,"Tanah Sareal, Bogor",Swiss-Belcourt Bogor,3.0,8.0,2,2022-12-31,1009500,2022
+Bogor,"Ciapus, Bogor",The Highland Park Resort Bogor,3.0,8.5,2,2022-12-31,4296875,2022
+Bogor,"Bogor Nirwana Residence, Bogor",Padjadjaran Suites Resort & Convention Hotel,4.0,8.2,2,2022-12-31,1078000,2022
+Bogor,"Padjajaran, Bogor",Arch Hotel Bogor,3.5,8.3,2,2022-12-31,885000,2022
+Bogor,"Padjajaran, Bogor",Padjadjaran Hotel,4.0,8.2,2,2022-12-31,975000,2022
+Bogor,"Tanah Sareal, Bogor",The Sahira Hotel ( Syariah Hotel ),4.0,8.7,2,2022-12-31,1500000,2022
+Bogor,"Bogor Selatan, Bogor",Green Forest Bogor,4.0,7.9,2,2022-12-31,1025000,2022
+Bogor,"Pakuan, Bogor",Izi Hotel,2.5,8.0,2,2022-12-31,713350,2022
+Bogor,"Lido, Bogor",Lido Lake Resort by MNC Hotel,4.0,8.4,2,2022-12-31,3393600,2022
+Bogor,"Juanda, Bogor",Royal Hotel Bogor,4.0,8.3,2,2022-12-31,1395000,2022
+Bogor,"Padjajaran, Bogor",Hotel Permata Bogor,3.0,8.3,2,2022-12-31,1004250,2022
+Bogor,"Juanda, Bogor",Onih Hotel,3.0,8.6,2,2022-12-31,912500,2022
+Bogor,"Bogor Timur, Bogor",Citrus-house,1.0,8.7,2,2022-12-31,742500,2022
+Bogor,"Sentul, Bogor",New Green Sentul Resort & Hotel,1.0,8.0,2,2022-12-31,774000,2022
+Bogor,"Juanda, Bogor",Sahira Butik Hotel (Syariah Hotel),3.0,8.6,2,2022-12-31,825000,2022
+Bogor,"Pakuan, Bogor",Sahira Butik Pakuan (Syariah Hotel),3.0,8.7,2,2022-12-31,1035000,2022
+Bogor,"Ciawi, Bogor",Pelindo Residence (Syariah),3.0,8.6,2,2022-12-31,560000,2022
+Bogor,"Caringin, Bogor",The Village Resort Bogor By Waringin Hospitality,2.0,7.7,2,2022-12-31,4130000,2022
+Bogor,"Pakuan, Bogor",Rizen Padjadjaran Hotel,3.0,8.2,2,2022-12-31,636892,2022
+Bogor,"Padjajaran, Bogor",Light Box,2.0,8.2,2,2022-12-31,588000,2022
+Bogor,"Ciomas, Bogor",Sienna Residence,0.0,8.8,2,2022-12-31,964000,2022
+Bogor,"Bogor Utara, Bogor",CICO Resort (Cottage & Convention),1.0,8.5,2,2022-12-31,1413044,2022
+Bogor,"Bogor Utara, Bogor",Polaz  Bed & Brew,1.0,8.5,2,2022-12-31,287500,2022
+Semarang,"Semarang Tengah, Semarang",Po Hotel (FKA Crowne Plaza Semarang),5.0,8.4,2,2022-12-31,27944000,2022
+Semarang,"Semarang Tengah, Semarang",Gumaya Tower Hotel Semarang,5.0,8.8,2,2022-12-31,2650000,2022
+Semarang,"Bandungan, Semarang",Amanda Hills Bandungan,3.0,8.1,2,2022-12-31,680000,2022
+Semarang,"Semarang Tengah, Semarang",Hotel Ciputra Semarang managed by Swiss-Belhotel International,5.0,8.6,2,2022-12-31,2030000,2022
+Semarang,"Candisari, Semarang",Grand Candi Hotel Semarang,5.0,8.3,2,2022-12-31,2700000,2022
+Semarang,"Semarang Tengah, Semarang",Whiz Hotel Pemuda Semarang,2.0,8.3,2,2022-12-31,1010000,2022
+Semarang,"Semarang Tengah, Semarang",HA-KA Simpang Lima Hotel Semarang,3.0,8.4,2,2022-12-31,1212242,2022
+Semarang,"Semarang Tengah, Semarang",Metro Park View Hotel,4.0,8.6,2,2022-12-31,1962188,2022
+Semarang,"Semarang Tengah, Semarang",Metro Park View Hotel,4.0,8.6,2,2022-12-31,1962188,2022
+Semarang,"Kota Lama, Semarang",Golden City Hotel and Convention Center,4.0,8.5,2,2022-12-31,1449000,2022
+Semarang,"Semarang Timur, Semarang",Horison Kota Lama Semarang,3.0,8.2,2,2022-12-31,1182600,2022
+Semarang,"Kota Lama, Semarang",Golden City Hotel and Convention Center,4.0,8.5,2,2022-12-31,1449000,2022
+Semarang,"Candisari, Semarang",Wimarion Hotel Semarang,4.0,8.6,2,2022-12-31,1540000,2022
+Semarang,"Semarang Tengah, Semarang",Hotel Dafam Semarang,4.0,8.3,2,2022-12-31,1250000,2022
+Semarang,"Semarang Barat, Semarang",The Azana Hotel Airport Semarang,4.0,8.4,2,2022-12-31,1087764,2022
+Semarang,"Bandungan, Semarang",Amanda Hills Bandungan,3.0,8.1,2,2022-12-31,680000,2022
+Semarang,"Semarang Tengah, Semarang",Hotel Citradream Semarang,2.0,8.4,2,2022-12-31,679461,2022
+Semarang,"Semarang Tengah, Semarang",Citrip Hotel Simpang Lima (FKA CityOne),2.0,8.2,2,2022-12-31,929000,2022
+Semarang,"Bandungan, Semarang",Grand Panorama Hotel,1.0,8.1,2,2022-12-31,438000,2022
+Semarang,"Gajahmungkur, Semarang",Hotel Grasia,3.0,8.1,2,2022-12-31,1100789,2022
+Semarang,"Pedurungan, Semarang",Hotel Dalu Semarang,2.0,8.3,2,2022-12-31,469450,2022
+Semarang,"Gajahmungkur, Semarang",Candiview Hotel Semarang,2.0,8.3,2,2022-12-31,950000,2022
+Semarang,"Candisari, Semarang",Hotel Pantes Candi Simpang Lima,1.0,8.1,2,2022-12-31,679500,2022
+Semarang,"Bandungan, Semarang",Terra Cassa Hotel,3.0,8.5,2,2022-12-31,1020000,2022
+Yogyakarta,"Depok, Yogyakarta",INNSIDE by Melia Yogyakarta,4.0,8.6,2,2022-12-31,1910000,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Melia Purosani Yogyakarta,5.0,8.7,2,2022-12-31,4400000,2022
+Yogyakarta,"Mantrijeron, Yogyakarta",The Alana Hotel & Conference Center Malioboro Yogyakarta by ASTON,4.0,8.8,2,2022-12-31,2644375,2022
+Yogyakarta,"Depok, Yogyakarta",Sheraton Mustika Yogyakarta Resort & Spa,5.0,8.5,2,2022-12-31,1830126,2022
+Yogyakarta,"Depok, Yogyakarta",Yogyakarta Marriott Hotel,5.0,9.0,2,2022-12-31,2716450,2022
+Yogyakarta,"Depok, Yogyakarta",Sheraton Mustika Yogyakarta Resort & Spa,5.0,8.5,2,2022-12-31,1830126,2022
+Yogyakarta,"Depok, Yogyakarta",Royal Ambarrukmo Yogyakarta,5.0,9.0,2,2022-12-31,3576512,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",ARTOTEL Suites Bianti Yogyakarta,5.0,8.8,2,2022-12-31,3015000,2022
+Yogyakarta,"Ngaglik, Yogyakarta",The Alana Yogyakarta Hotel & Convention Center,4.0,8.8,2,2022-12-31,2146500,2022
+Yogyakarta,"Depok, Yogyakarta",Yellow Star Ambarukmo Hotel,3.0,8.4,2,2022-12-31,1200000,2022
+Yogyakarta,"Ngaglik, Yogyakarta",Hyatt Regency Yogyakarta,5.0,8.9,2,2022-12-31,2757898,2022
+Yogyakarta,"Seturan, Yogyakarta",Hotel Dafam Fortuna Seturan,4.0,8.5,2,2022-12-31,1089999,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",eL Hotel Royale Yogyakarta Malioboro,4.0,8.7,2,2022-12-31,4890000,2022
+Yogyakarta,"Depok, Yogyakarta",Grand Mercure Yogyakarta Adi Sucipto,5.0,8.6,2,2022-12-31,1948274,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Malyabhara Hotel,3.0,8.0,2,2022-12-31,2515000,2022
+Yogyakarta,"Mlati, Yogyakarta",The Rich Jogja Hotel,4.0,8.5,2,2022-12-31,1925000,2022
+Yogyakarta,"Depok, Yogyakarta",Lafayette Boutique Hotel,5.0,8.8,2,2022-12-31,3174000,2022
+Yogyakarta,"Depok, Yogyakarta",Grand Diamond Hotel Yogyakarta,4.0,8.5,2,2022-12-31,1189999,2022
+Yogyakarta,"Ngaglik, Yogyakarta",Indoluxe Hotel Jogjakarta,4.0,8.7,2,2022-12-31,1400000,2022
+Yogyakarta,"Jetis, Yogyakarta",Harper Malioboro Yogyakarta by ASTON,4.0,8.8,2,2022-12-31,4153846,2022
+Yogyakarta,"Umbulharjo, Yogyakarta",favehotel Kusumanegara,3.0,8.2,2,2022-12-31,1500000,2022
+Yogyakarta,"Depok, Yogyakarta",Next Hotel Yogyakarta,4.0,7.9,2,2022-12-31,1318333,2022
+Yogyakarta,"Depok, Yogyakarta",PORTA by The Ambarrukmo,3.0,8.9,2,2022-12-31,2000000,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",ARTOTEL Suites Bianti Yogyakarta,5.0,8.8,2,2022-12-31,3015000,2022
+Yogyakarta,"Gondokusuman, Yogyakarta","KIMAYA Sudirman Yogyakarta, By HARRIS",4.0,8.6,2,2022-12-31,1498000,2022
+Yogyakarta,"Depok, Yogyakarta",Sahid Raya Hotel & Convention Yogyakarta,4.0,7.9,2,2022-12-31,1092000,2022
+Yogyakarta,"Depok, Yogyakarta",Yellow Star Ambarukmo Hotel,3.0,8.4,2,2022-12-31,1200000,2022
+Yogyakarta,"Gejayan, Yogyakarta",Prime Plaza Hotel Jogjakarta,4.0,8.8,2,2022-12-31,1591200,2022
+Yogyakarta,"Gejayan, Yogyakarta",Yellow Star Gejayan Hotel,3.0,8.5,2,2022-12-31,1189500,2022
+Yogyakarta,"Depok, Yogyakarta",The Jayakarta Yogyakarta Hotel & Spa,4.0,8.3,2,2022-12-31,1464000,2022
+Yogyakarta,"Jalan Prawirotaman, Yogyakarta",Greenhost Boutique Hotel,3.0,8.7,2,2022-12-31,1412500,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",Grand Kangen Hotel Urip Sumoharjo Yogyakarta,3.0,8.5,2,2022-12-31,1392044,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Patra Malioboro Hotel,3.0,8.9,2,2022-12-31,2500000,2022
+Yogyakarta,"Banguntapan, Yogyakarta",Grand Rohan Jogja,4.0,8.7,2,2022-12-31,4287450,2022
+Yogyakarta,"Jalan Prawirotaman, Yogyakarta",KJ Hotel Yogyakarta,4.0,8.7,2,2022-12-31,1623159,2022
+Yogyakarta,"Gejayan, Yogyakarta",The Manohara Hotel Yogyakarta,4.0,8.7,2,2022-12-31,3650000,2022
+Yogyakarta,"Mlati, Yogyakarta",Bohemian Jogja Villas With Private Pool,0.0,8.7,2,2022-12-31,5950000,2022
+Yogyakarta,"Depok, Yogyakarta",ibis Yogyakarta Adi Sucipto,3.0,8.7,2,2022-12-31,1376174,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",h Boutique Hotel Jogjakarta,3.0,8.5,2,2022-12-31,1584889,2022
+Yogyakarta,"Jalan Malioboro, Yogyakarta",Abadi Hotel Malioboro Yogyakarta by Tritama Hospitality,4.0,8.5,2,2022-12-31,1965096,2022
+Yogyakarta,"Depok, Yogyakarta",Aveon Hotel Yogyakarta by Daphna International,4.0,8.3,2,2022-12-31,1501100,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",All Nite & Day Hotel Yogyakarta - Gejayan,3.0,8.4,2,2022-12-31,1230000,2022
+Yogyakarta,"Gejayan, Yogyakarta",Grand Keisha Yogyakarta,4.0,8.9,2,2022-12-31,2800000,2022
+Yogyakarta,"Depok, Yogyakarta",D'Salvatore Art & Boutique Hotel,3.0,8.4,2,2022-12-31,1750000,2022
+Yogyakarta,"Gejayan, Yogyakarta",Grand Sarila Hotel Yogyakarta,3.0,8.2,2,2022-12-31,945000,2022
+Yogyakarta,"Mantrijeron, Yogyakarta",Horison Lynn Yogyakarta,3.0,8.5,2,2022-12-31,1035090,2022
+Yogyakarta,"Gondokusuman, Yogyakarta",Sagan Heritage Hotel,3.0,8.3,2,2022-12-31,1000000,2022
+Yogyakarta,"Gedongtengen, Yogyakarta",Horison Ultima Riss Malioboro Yogyakarta,4.0,8.5,2,2022-12-31,3209444,2022
+Yogyakarta,"Umbulharjo, Yogyakarta",@HOM Premiere Timoho,4.0,8.6,2,2022-12-31,1377000,2022
+Yogyakarta,"Depok, Yogyakarta",Student Castle Apartment HD,0.0,7.8,2,2022-12-31,750500,2022
+Yogyakarta,"Kotabaru, Yogyakarta",favehotel Malioboro - Yogyakarta,3.0,8.7,2,2022-12-31,1439370,2022
+Solo,"Colomadu, Solo",The Alana Hotel and Convention Center - Solo by ASTON,4.0,8.6,2,2022-12-31,1253560,2022
+Solo,"Gilingan, Solo",Swiss-Belhotel Solo,4.0,8.7,2,2022-12-31,1690000,2022
+Solo,"Kartasura, Solo",Syariah Hotel Solo,4.0,8.4,2,2022-12-31,762200,2022
+Solo,"Purwosari, Solo",POP! Hotel Solo,2.0,8.5,2,2022-12-31,554500,2022
+Solo,"Kerten, Solo",favehotel Manahan - Solo,3.0,8.2,2,2022-12-31,689000,2022
+Solo,"Solo Baru, Solo",favehotel Solo Baru,3.0,8.3,2,2022-12-31,689000,2022
+Solo,"Setabelan, Solo",MAHALAYA The Legacy Hotel,4.0,9.2,2,2022-12-31,2277000,2022
+Solo,"Kestalan, Solo",Twin Star Hotel Solo,2.0,8.3,2,2022-12-31,423076,2022
+Solo,"Timuran, Solo",Grand Orchid Hotel Solo,3.0,8.0,2,2022-12-31,2000000,2022
+Solo,"Solo Baru, Solo",LOA Living Solo Baru,3.0,8.7,2,2022-12-31,2800000,2022
+Solo,"Timuran, Solo",Grand Orchid Hotel Solo,3.0,8.0,2,2022-12-31,2000000,2022
+Solo,"Kerten, Solo",The Amrani Syariah Hotel,3.0,8.6,2,2022-12-31,1075000,2022
+Solo,"Pasar Kliwon, Solo",Grand Amira Hotel Solo by Azana,3.0,8.4,2,2022-12-31,826250,2022
+Solo,"Solo Baru, Solo",Hotel Tosan Solo Baru,3.0,8.3,2,2022-12-31,1425000,2022
+Solo,"Jebres, Solo",Fivecord Hotel Solo,0.0,8.8,2,2022-12-31,590000,2022
+Solo,"Purwosari, Solo",Diamond Hotel,2.0,8.4,2,2022-12-31,1400000,2022
+Solo,"Kestalan, Solo",Twin Star Hotel Solo,2.0,8.3,2,2022-12-31,423076,2022
+Solo,"Sriwedari, Solo",The Margangsa Hotel,2.0,8.3,2,2022-12-31,600000,2022
+Solo,"Tipes, Solo",Indah Palace Solo,3.0,8.2,2,2022-12-31,1050000,2022
+Solo,"Kartasura, Solo",Assalaam Syariah Hotel Solo,3.0,8.2,2,2022-12-31,550000,2022
+Solo,"Purwosari, Solo",Diamond Hotel,2.0,8.4,2,2022-12-31,1400000,2022
+Solo,"Ngemplak, Solo",Al Azhar Azhima Hotel Resort & Convention,3.0,7.8,2,2022-12-31,700000,2022
+Solo,"Kemlayan, Solo",Front One Cabin Slamet Riyadi,1.0,8.4,2,2022-12-31,375000,2022
+Solo,"Pucang Sawit, Solo",Hotel Bintang Solo,2.0,7.6,2,2022-12-31,395000,2022
+Solo,"Ketelan, Solo",Hotel Sahid Jaya Solo,5.0,8.2,2,2022-12-31,7150000,2022
+Solo,"Solo Baru, Solo",Griya Surya Solo Guesthouse,1.0,8.3,2,2022-12-31,140000,2022
+Solo,"Manahan, Solo",Hotel Grand Setia Kawan,3.0,7.1,2,2022-12-31,380469,2022
+Solo,"Laweyan, Solo",Malioboro Inn Solo,2.0,8.2,2,2022-12-31,415000,2022
+Solo,"Sondakan, Solo",Mandala Wisata Hotel,2.0,8.3,2,2022-12-31,500000,2022
+Solo,"Kampung Baru, Solo",Kusuma Sahid Prince Hotel,4.0,7.8,2,2022-12-31,1335000,2022
+Solo,"Tegalharjo, Solo",Griya Tenera Syariah,1.0,8.1,2,2022-12-31,352500,2022
+Solo,"Jajar, Solo",Luxury Inn Guest House,0.0,8.6,2,2022-12-31,423000,2022
+Surabaya,"Tegalsari, Surabaya",Tunjungan Hotel Surabaya,4.0,8.0,2,2022-12-31,986000,2022
+Surabaya,"Tegalsari, Surabaya",Four Points by Sheraton Surabaya,4.0,9.2,2,2022-12-31,1833150,2022
+Surabaya,"Wonokromo, Surabaya",Grand Darmo Suite by AMITHYA,4.0,8.3,2,2022-12-31,2089500,2022
+Surabaya,"Wonokromo, Surabaya",The Alana Surabaya,4.0,8.7,2,2022-12-31,1451900,2022
+Surabaya,"Wonokromo, Surabaya",Best Western Papilio Hotel,4.0,8.6,2,2022-12-31,985360,2022
+Surabaya,"Wonokromo, Surabaya",The Alana Surabaya,4.0,8.7,2,2022-12-31,1451900,2022
+Surabaya,"Sukomanunggal, Surabaya",Vasa Hotel Surabaya,5.0,8.7,2,2022-12-31,2193674,2022
+Surabaya,"Tegalsari, Surabaya",Sheraton Surabaya Hotel and Towers,5.0,8.8,2,2022-12-31,2329250,2022
+Surabaya,"Genteng, Surabaya",MIRA inn Kayoon Surabaya City Center,1.0,7.6,2,2022-12-31,290000,2022
+Surabaya,"Sawahan, Surabaya",Shangri-La Surabaya,5.0,8.7,2,2022-12-31,1815000,2022
+Surabaya,"Gubeng, Surabaya",HARRIS Hotel & Conventions Gubeng,4.0,8.7,2,2022-12-31,2688000,2022
+Surabaya,"Genteng, Surabaya",Garden Palace Hotel Powered by Archipelago,4.0,8.3,2,2022-12-31,746540,2022
+Surabaya,"Tegalsari, Surabaya",JW Marriott Hotel Surabaya,5.0,9.0,2,2022-12-31,2547050,2022
+Surabaya,"Sawahan, Surabaya",Hotel Ciputra World Surabaya managed by Swiss-Belhotel International,5.0,8.7,2,2022-12-31,4750000,2022
+Surabaya,"Genteng, Surabaya",Grand Dafam Signature Surabaya,4.0,8.8,2,2022-12-31,1864000,2022
+Surabaya,"Gubeng, Surabaya",The Life Styles Hotel Surabaya,3.5,8.9,2,2022-12-31,709999,2022
+Surabaya,"Wonokromo, Surabaya",Primebiz Hotel Surabaya,3.5,8.5,2,2022-12-31,969617,2022
+Surabaya,"Sawahan, Surabaya",Holiday Inn Express SURABAYA CENTERPOINT,4.0,8.6,2,2022-12-31,850576,2022
+Surabaya,"Genteng, Surabaya",Bekizaar Hotel Surabaya,3.0,8.4,2,2022-12-31,552704,2022
+Surabaya,"Gedangan, Surabaya",Swiss-Belinn Airport Surabaya,3.0,8.7,2,2022-12-31,670000,2022
+Surabaya,"Mulyorejo, Surabaya",Alimar Premier Hotel,3.0,8.2,2,2022-12-31,2112500,2022
+Surabaya,"Tegalsari, Surabaya",Royal Tulip Darmo Surabaya,5.0,8.7,2,2022-12-31,1327425,2022
+Surabaya,"Mulyorejo, Surabaya",Swiss-Belinn Manyar Surabaya,3.0,8.6,2,2022-12-31,927500,2022
+Surabaya,"Sukomanunggal, Surabaya",HARRIS Hotel & Conventions Bundaran Satelit Surabaya,4.0,8.8,2,2022-12-31,774000,2022
+Surabaya,"Genteng, Surabaya",Surabaya Suites Hotel Powered by Archipelago,4.0,8.5,2,2022-12-31,1140825,2022
+Surabaya,"Genteng, Surabaya",Hotel Aria Centra Surabaya,4.0,8.8,2,2022-12-31,1312500,2022
+Surabaya,"Rungkut, Surabaya",Hotel Gunawangsa MERR,3.0,8.4,2,2022-12-31,818000,2022
+Surabaya,"Waru, Surabaya",Neo+ Waru Sidoarjo by ASTON,3.0,8.4,2,2022-12-31,550800,2022
+Surabaya,"Pabean Cantikan, Surabaya",POP! Hotel Stasiun Kota Surabaya,2.0,8.5,2,2022-12-31,368000,2022
+Surabaya,"Tegalsari, Surabaya",Hotel 88 Embong Malang,3.0,8.4,2,2022-12-31,567500,2022
+Surabaya,"Wonokromo, Surabaya",POP! Hotel Diponegoro Surabaya,2.0,8.3,2,2022-12-31,404000,2022
+Surabaya,"Tenggilis Mejoyo, Surabaya",Zest Hotel Jemursari,2.0,8.4,2,2022-12-31,519999,2022
+Surabaya,"Genteng, Surabaya",Grand Inna Tunjungan,4.0,8.5,2,2022-12-31,1107186,2022
+Surabaya,"Genteng, Surabaya",Goldvitel Hotel Surabaya,4.0,8.2,2,2022-12-31,2036500,2022
+Surabaya,"Sedati, Surabaya",ibis budget Surabaya Airport,2.0,8.4,2,2022-12-31,455000,2022
+Surabaya,"Genteng, Surabaya",Hotel 88 Embong Kenongo (Kayoon),2.0,8.5,2,2022-12-31,409500,2022
+Surabaya,"Tegalsari, Surabaya",Amaris Hotel Embong Malang,2.0,8.4,2,2022-12-31,580000,2022
+Surabaya,"Wonocolo, Surabaya",Amaris Hotel Margorejo Surabaya,2.0,8.6,2,2022-12-31,450000,2022
+Surabaya,"Mulyorejo, Surabaya",Hotel Dafam Pacific Caesar Surabaya,3.0,8.8,2,2022-12-31,800000,2022
+Surabaya,"Genteng, Surabaya",The Life Hotels Surabaya City Center,2.5,8.3,2,2022-12-31,379999,2022
+Surabaya,"Sawahan, Surabaya",Prime Royal Boutique Hotel Surabaya,3.5,8.1,2,2022-12-31,534999,2022
+Surabaya,"Tegalsari, Surabaya",Amaris Hotel Darmo - Surabaya,2.0,8.6,2,2022-12-31,442500,2022
+Surabaya,"Gubeng, Surabaya",ZOOM Dharmahusada Hotel,3.0,8.5,2,2022-12-31,557500,2022
+Surabaya,"Wonokromo, Surabaya",Novotel Surabaya - Hotel & Suites,4.0,8.4,2,2022-12-31,1482940,2022
+Surabaya,"Gedangan, Surabaya",Premier Place Surabaya Airport,3.0,8.7,2,2022-12-31,824500,2022
+Surabaya,"Gubeng, Surabaya",MaxOneHotels.com @ Dharmahusada - Surabaya,3.0,8.6,2,2022-12-31,550000,2022
+Surabaya,"Tegalsari, Surabaya",Hotel 88 Kedungsari (Kedungdoro),2.0,8.6,2,2022-12-31,482500,2022
+Surabaya,"Genteng, Surabaya",Hotel Majapahit Surabaya - MGallery,5.0,8.8,2,2022-12-31,1947000,2022
+Surabaya,"Genteng, Surabaya",D'Carol Hotel Surabaya,3.0,8.6,2,2022-12-31,600000,2022
+Surabaya,"Gubeng, Surabaya",La Lisa Hotel Surabaya,3.5,8.6,2,2022-12-31,1122500,2022
+Surabaya,"Tenggilis Mejoyo, Surabaya",Yello Hotel Jemursari,3.0,8.5,2,2022-12-31,828246,2022
+Surabaya,"Dukuh Pakis, Surabaya",Sumi Hotel Surabaya,2.0,8.4,2,2022-12-31,340000,2022
+Surabaya,"Genteng, Surabaya",Life Hotel Sudirman Surabaya,3.0,8.2,2,2022-12-31,329999,2022

@@ -6,16 +6,19 @@ import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import st_folium
 
-# Membaca dataset yang sudah dibersihkan (gantilah dengan nama file yang sesuai)
+# Membaca dataset yang sudah dibersihkan
 df_clean = pd.read_csv('hotel_distribution_cleaned.csv')
 
 # Menampilkan judul utama
-st.title("Dashboard Analisis Data Hotel Tahun Baru")
+st.title("Dashboard Analisis Data Hotel untuk Smart City")
 
 # 1. Jumlah Hotel per Kota
 st.subheader("Jumlah Hotel per Kota")
 hotel_per_city = df_clean.groupby('city')['name'].nunique().reset_index()
 hotel_per_city.columns = ['city', 'total_hotel']
+
+# Tampilkan tabel jumlah hotel per kota
+st.write(hotel_per_city)
 
 fig1, ax1 = plt.subplots(figsize=(12, 6))
 ax1.bar(hotel_per_city['city'], hotel_per_city['total_hotel'], color='dodgerblue')
@@ -29,6 +32,9 @@ st.pyplot(fig1)
 st.subheader("Rata-rata Rating Hotel per Kota")
 rating_per_city = df_clean.groupby('city')['starRating'].mean().reset_index()
 rating_per_city.columns = ['city', 'avg_rating']
+
+# Tampilkan tabel rating per kota
+st.write(rating_per_city)
 
 fig2, ax2 = plt.subplots(figsize=(12, 6))
 bars2 = ax2.bar(rating_per_city['city'], rating_per_city['avg_rating'], color='lightcoral')
@@ -47,6 +53,9 @@ st.pyplot(fig2)
 st.subheader("Rata-rata Harga Hotel per Kota (IDR)")
 price_per_city = df_clean.groupby('city')['price'].mean().reset_index()
 price_per_city.columns = ['city', 'avg_price']
+
+# Tampilkan tabel harga per kota
+st.write(price_per_city)
 
 fig3, ax3 = plt.subplots(figsize=(12, 6))
 bars3 = ax3.bar(price_per_city['city'], price_per_city['avg_price'], color='mediumseagreen')

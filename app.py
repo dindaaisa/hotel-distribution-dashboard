@@ -65,32 +65,27 @@ st.write(f"Timeliness tidak dapat diukur karena dataset tidak memiliki timestamp
 # Garis pemisah
 st.markdown("---")
 
-# 4. Jumlah Hotel per Kota (Heatmap)
+# 4. Jumlah Hotel per Kota (Boxplot)
 st.subheader("📊 Jumlah Hotel per Kota")
 hotel_per_city = df_clean.groupby('city')['name'].nunique().reset_index()
 hotel_per_city.columns = ['city', 'total_hotel']
 
 fig1, ax1 = plt.subplots(figsize=(12, 6))
-sns.heatmap(hotel_per_city.set_index('city').T, annot=True, cmap="YlGnBu", cbar=False, ax=ax1)
+sns.boxplot(x='city', y='price', data=df_clean, ax=ax1, color='lightgreen')
 ax1.set_xlabel('Kota', fontsize=14)
-ax1.set_ylabel('Jumlah Hotel', fontsize=14)
+ax1.set_ylabel('Harga per Malam (IDR)', fontsize=14)
 plt.tight_layout()
 st.pyplot(fig1)
 
-# 5. Rata-rata Rating per Kota (Horizontal Bar Chart)
+# 5. Rata-rata Rating per Kota (Box Plot)
 st.subheader("⭐ Rata-rata Rating Hotel per Kota")
 rating_per_city = df_clean.groupby('city')['starRating'].mean().reset_index()
 rating_per_city.columns = ['city', 'avg_rating']
 
 fig2, ax2 = plt.subplots(figsize=(12, 6))
-ax2.barh(rating_per_city['city'], rating_per_city['avg_rating'], color='lightcoral')
-ax2.set_xlabel('Rating', fontsize=14)
-ax2.set_ylabel('Kota', fontsize=14)
-
-# Label angka di atas bar
-for bar in ax2.patches:
-    ax2.text(bar.get_width() + 0.05, bar.get_y() + bar.get_height() / 2, f'{bar.get_width():.2f}', va='center', fontsize=12)
-
+sns.boxplot(x='city', y='starRating', data=df_clean, ax=ax2, color='lightcoral')
+ax2.set_xlabel('Kota', fontsize=14)
+ax2.set_ylabel('Rating Hotel', fontsize=14)
 plt.tight_layout()
 st.pyplot(fig2)
 
@@ -131,7 +126,17 @@ best_hotels_per_city = df_clean.loc[df_clean.groupby('city')['starRating'].idxma
 # Menampilkan tabel hotel dengan rating tertinggi per kota
 st.write(best_hotels_per_city)
 
-# 9. Jumlah Hotel dengan Fasilitas Tertentu
+# 9. Distribusi Star Rating Hotel (Heatmap)
+st.subheader("🌟 Distribusi Star Rating Hotel")
+star_distribution = df_clean['starRating'].value_counts().reset_index()
+star_distribution.columns = ['starRating', 'jumlah']
+
+fig5, ax5 = plt.subplots(figsize=(8, 8))
+sns.heatmap(star_distribution.pivot_table(index='starRating', columns='jumlah', values='starRating'), annot=True, cmap='Blues', fmt="d", linewidths=.5)
+ax5.set_title("Distribusi Star Rating Hotel", fontsize=16)
+st.pyplot(fig5)
+
+# 10. Jumlah Hotel dengan Fasilitas Tertentu
 st.subheader("🏨 Jumlah Hotel dengan Fasilitas Tertentu")
 facilities_count = df_clean['hotelFeatures'].str.contains("gym|spa|pool|accessibility", case=False, na=False).sum()
 st.write(f"Jumlah hotel dengan fasilitas gym/spa/pool atau aksesibilitas: {facilities_count}")

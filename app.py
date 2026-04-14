@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import folium
+from folium.plugins import MarkerCluster
+from streamlit_folium import st_folium
 
 # Membaca dataset yang sudah dibersihkan
 df_clean = pd.read_csv('hotel_distribution_cleaned.csv')
@@ -22,14 +25,14 @@ avg_rating = df_clean['starRating'].mean()
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.metric(label="Total Hotel", value=total_hotel)
+    st.metric(label="🏨 Total Hotel", value=total_hotel)
 with col2:
-    st.metric(label="Total Kota", value=total_city)
+    st.metric(label="🏙️ Total Kota", value=total_city)
 with col3:
-    st.metric(label="Harga Rata-Rata", value=f"IDR {avg_price:,.0f}")
+    st.metric(label="💰 Harga Rata-Rata", value=f"IDR {avg_price:,.0f}")
 
 # 2. Displaying Data Quality Metrics
-st.subheader("Evaluasi Kualitas Data 📊")
+st.subheader("📊 Evaluasi Kualitas Data")
 accuracy = 100.00
 completeness = 100.00
 consistency = 100.00
@@ -38,18 +41,18 @@ timeliness = "Tidak terukur"
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
-    st.metric(label="Accuracy", value=f"{accuracy}%")
+    st.metric(label="✅ Accuracy", value=f"{accuracy}%")
 with col2:
-    st.metric(label="Completeness", value=f"{completeness}%")
+    st.metric(label="✔️ Completeness", value=f"{completeness}%")
 with col3:
-    st.metric(label="Consistency", value=f"{consistency}%")
+    st.metric(label="🔄 Consistency", value=f"{consistency}%")
 with col4:
-    st.metric(label="Timeliness", value=timeliness, delta="N/A")
+    st.metric(label="⏳ Timeliness", value=timeliness, delta="N/A")
 
 st.write(f"Timeliness tidak dapat diukur karena dataset tidak memiliki timestamp.")
 
 # 3. Jumlah Hotel per Kota
-st.subheader("Jumlah Hotel per Kota 📊")
+st.subheader("📊 Jumlah Hotel per Kota")
 hotel_per_city = df_clean.groupby('city')['name'].nunique().reset_index()
 hotel_per_city.columns = ['city', 'total_hotel']
 
@@ -61,12 +64,8 @@ ax1.set_xticklabels(hotel_per_city['city'], rotation=45, ha='right')
 plt.tight_layout()
 st.pyplot(fig1)
 
-# Tampilkan tabel di bawah visualisasi
-st.write("📋 Tabel Data Jumlah Hotel per Kota")
-st.dataframe(hotel_per_city)
-
 # 4. Rata-rata Rating per Kota
-st.subheader("Rata-rata Rating Hotel per Kota ⭐")
+st.subheader("⭐ Rata-rata Rating Hotel per Kota")
 rating_per_city = df_clean.groupby('city')['starRating'].mean().reset_index()
 rating_per_city.columns = ['city', 'avg_rating']
 
@@ -84,7 +83,7 @@ plt.tight_layout()
 st.pyplot(fig2)
 
 # 5. Harga vs Rating (Scatter Plot)
-st.subheader("Harga vs Rating 💰⭐")
+st.subheader("💰⭐ Harga vs Rating")
 fig5, ax5 = plt.subplots(figsize=(10, 6))
 ax5.scatter(df_clean['price'], df_clean['starRating'], alpha=0.5, color='b')
 ax5.set_title("Hubungan Harga dan Rating Hotel", fontsize=16, weight='bold')
@@ -94,6 +93,28 @@ plt.grid(True)
 plt.tight_layout()
 st.pyplot(fig5)
 
+# 6. Distribusi Harga Hotel (Histogram)
+st.subheader("💵 Distribusi Harga Hotel per Kota")
+fig6, ax6 = plt.subplots(figsize=(12, 6))
+ax6.hist(df_clean['price'], bins=20, color='#8A2BE2')
+ax6.set_xlabel("Harga per Malam (IDR)", fontsize=14)
+ax6.set_ylabel("Frekuensi", fontsize=14)
+ax6.set_title("Distribusi Harga Hotel", fontsize=16, weight='bold')
+plt.tight_layout()
+st.pyplot(fig6)
+
+# 7. Analisis Ketersediaan Hotel (Top Cities with Most Hotels)
+st.subheader("🏙️ Ketersediaan Hotel per Kota (Top 5)")
+top_cities = df_clean['city'].value_counts().head(5).reset_index()
+top_cities.columns = ['City', 'Total Hotels']
+
+fig7, ax7 = plt.subplots(figsize=(12, 6))
+ax7.bar(top_cities['City'], top_cities['Total Hotels'], color='#90EE90')
+ax7.set_xlabel('Kota', fontsize=14)
+ax7.set_ylabel('Jumlah Hotel', fontsize=14)
+plt.tight_layout()
+st.pyplot(fig7)
+
 # Kesimpulan dan solusi
 st.subheader("🎯 Kesimpulan dan Solusi")
 st.write("""
@@ -102,9 +123,3 @@ st.write("""
 - **Solusi:** Monitoring & optimasi distribusi hotel untuk memastikan distribusi yang lebih merata dan efektif.
 - **Output:** Dashboard yang memvisualisasikan distribusi hotel dan rekomendasi optimasi distribusi.
 """)
-
-# Menambahkan info dalam bentuk tabel di sidebar
-st.sidebar.header("🏨 Data Hotel per Kota")
-st.sidebar.write("Pilih Kota untuk melihat data distribusi hotel.")
-selected_city_data = df_clean[df_clean['city'] == selected_city]
-st.sidebar.dataframe(selected_city_data)
